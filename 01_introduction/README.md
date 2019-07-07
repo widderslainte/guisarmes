@@ -1,0 +1,1 @@
+This is an introduction.  Guisearmes & Golems (henceforth Guisearmes or 'G&G') is an initlal form of my personal vision of Dungeons & Dragons.
