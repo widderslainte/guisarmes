@@ -5,8 +5,8 @@ The basic attributes are nothing unique to Guisarmes & Golems.  Unlike other sec
 Roll 3d6 in order.  This order:  Strength, Intelligence, Wisdom, Dexterity, Constitution, Charisma.  Record these and come back to this section once you’ve selected your character’s ancestry.
 
 * **Strength:** modifies attack and damage rolls in non-missile combat and open doors
-* **Intelligence:** modifies known languages, saves against Magician's spells, and Magician research rolls
-* **Wisdom:** modifies saves againt Prophet's spells and Propher research rolls.
+* **Intelligence:** modifies known languages and Magician research rolls
+* **Wisdom:** modifies saves againt Prophet's spells and Prophet research rolls.
 * **Dexterity:** modifiers attack rolls in missile combat, armor class (in normal situations)
 * **Constitution:** modifiers hit points rolled, other tests and measures of endurance
 * **Charisma:** modifiers reaction and loyalty for potential and current hirelings and henchmen

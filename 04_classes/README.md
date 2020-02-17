@@ -19,25 +19,25 @@
 | Allowed Weapons: Any |
 | Melee Attack Bonus:  Current Level |
 | Ranged Attack Bonus:  Current Level |
-|
+|  |
 | Saving Throw Modifiers:  |
 | Initial Hit Point Roll: 2d6 (Or take 8) |
 | Class Abilities: Destroyer of Men, Followers, Stronghold Creation: Keep |
-| --                                   |
+|                                   |
 | Hit Points Gained Levels 2-10: 2d6 |
 | Hit Points Gained Levels 11+: 3 |
 | Combat Proficiencies Gained: Levels 3,6,9,12,15,18 |
 | Attacks:  L1-5 1/round, L6-10 2/round, L11 & up 3/round |
 
 With each level, Warriors gain a bonus to one of the following families of weapons:
-    * One handed Melee:  +1 damage
-    * Thrown Weapons: +1 to hit
-    * Two Handed Weapons (includes all spears): +1 damage
-    * Bows (excluding crossbows): +1 to hit
-    * Firearms: reduced risk of misfire or reload time
+* One handed Melee:  +1 damage
+* Thrown Weapons: +1 to hit
+* Two Handed Weapons (includes all spears): +1 damage
+* Bows (excluding crossbows): +1 to hit
+* Firearms: reduced risk of misfire or reload time
 
 
- 
+
 ## Magician 
  *Also Wizard, Magic-User, Magus*
 
@@ -48,7 +48,7 @@ With each level, Warriors gain a bonus to one of the following families of weapo
 | Allowed Weapons: Dagger, dart, oil, staff|
 | Melee Attack Bonus:  Level/5|
 | Ranged Attack Bonus:  Level/5|
-
+|
 | Saving Throw Modifiers: +1 to Spells Saves, +2 to Magical Device Saves|
 | Initial Hit Point Roll: 2d3 (or take 4)|
 | Hit Points Gained Levels 2-10: d4|
@@ -61,7 +61,6 @@ Create Concoctions, Create Potions, Create Scrolls, Cantraps, Enchant Items, Rec
 * Translate as “skill” (merge with Read Magic as single skill?)
 * Annoying fact
 
- 
 ## Burglar 
  *Also Thief, Rogue, Bard, Assassin, Thug, Waghalter*
 
@@ -71,7 +70,7 @@ Create Concoctions, Create Potions, Create Scrolls, Cantraps, Enchant Items, Rec
 | Allowed Weapons:  Club, dagger, dart, oil, sling, short sword |
 | Melee Attack Bonus:  ½ Current Level |
 | Ranged Attack Bonus:  ½ Current Level |
-
+| |
 | Saving Throw Modifiers: +2 to Poison, +2 to Dodges and Falls |
 | Initial Hit Point Roll: 2d4 (or take 6) |
 | Hit Points Gained Levels 2-10: d6 |
@@ -89,7 +88,6 @@ Create Concoctions, Create Potions, Create Scrolls, Cantraps, Enchant Items, Rec
 * Gallow’s humor - reduce stress/fear
 * “Know a guy”
 
- 
  ## Prophet 
  _Also Cleric, Priest, Seer, and Revelator_
 
@@ -101,6 +99,8 @@ Create Concoctions, Create Potions, Create Scrolls, Cantraps, Enchant Items, Rec
 | Melee Attack Bonus:  ½ Current Level |
 | Ranged Attack Bonus:  none |
 
+|  |
+|--|
 | Saving Throw Modifiers: +2 against fear effects |
 | Initial Hit Point Roll: 2d4 (or take 6) |
 | Hit Points Gained Levels 2-10: 2d4 |
