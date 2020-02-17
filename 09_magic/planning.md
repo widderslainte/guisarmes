@@ -242,12 +242,12 @@
 13. Magic Missile
 14. Mending
 15. Message
-• Read Magic
-16. Shield
-17. Sleep
-18. Spider Climb
-19. Summon
-20. Unseen Servant
+16. _? Read Magic_
+17. Shield
+18. Sleep
+19. Spider Climb
+20. Summon
+21. Unseen Servant
 
 
 ### Second Level
@@ -304,28 +304,29 @@ _Most from 3E Oriental Adventures (many of these exist in standard rules)_
 
 ### Level 1
 * Bless
-* ??? Bookspeak (LotFP)/ Read Languages (S&W)
+* Comprehend Languages
+* Contact Minor Spirit (Chanbara/Flying Swordsman)
 * Detect Aura (chaos/evil/etc)
 * Detect Magic (LotFP)
 * Faerie Fire (LotFP)
-* ??? Feather Fall (LotFP)
+* Feather Fall (LotFP)
 * Floating Disc (LotFP)
-* ??? Hold Portal (LotFP)
+* Hold Portal (LotFP)
 * Identify (LotFP/AD&D)
-* ??? Light* (LotFP)
-* ??? Magic Aura* (LotFP)
-* ??? Mending (LotFP)
-* ??? Message (LotFP)
+* Light* (LotFP)
+* Magic Aura* (LotFP)
+* Message (LotFP)
 * Obscuring mist (via spirit)
 * Protection from Chaos/Evil
-* ??? Read Magic ?
+* Purge Evil Spirits (Chanbara/Flying Swordsman)
+* Read Magic (with current ruleset)
 * Shield (LotFP)
 * Sleep (LotFP)
+* Spirit Ward (Chanbara/Flying Swordsman)
 * Summon (LotfP)
 * Trance
 * Unseen Servant (LotFP)
-* Ward against undead (detect as well protection from)
-
+* Word of Command (Chanbara/Flying Swordsman)
 
 ### Level 2
  * Ancestral Vengeance
