@@ -23,6 +23,7 @@
 * **Stronghold Creation:** Keep
 * **Skills**:
   * Accuracy
+  * Build Bridges
   * Consume Alcohol
   * Hear Noise
   * Open Doors
@@ -71,7 +72,7 @@
 
 | **Class Details** | |
 | :--------------- | :--- |
-| **Allowed Armor:** |Leather armor, Cloth armor, (small), no helmets (skullcaps allowed) |
+| **Allowed Armor:** |Leather armor, Cloth armor, Shields (small only), no helmets (skullcaps allowed) |
 | **Allowed Weapons:**|  Club, dagger, dart, oil, short sword |
 | **Melee Attack Bonus:**|  ½ Current Level |
 | **Ranged Attack Bonus:**|  ½ Current Level |
