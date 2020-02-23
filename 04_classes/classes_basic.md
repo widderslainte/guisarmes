@@ -72,7 +72,7 @@
 | **Class Details** | |
 | :--------------- | :--- |
 | **Allowed Armor:** |Leather armor, Cloth armor, (small), no helmets (skullcaps allowed) |
-| **Allowed Weapons:**|  Club, dagger, dart, oil, sling, short sword |
+| **Allowed Weapons:**|  Club, dagger, dart, oil, short sword |
 | **Melee Attack Bonus:**|  ½ Current Level |
 | **Ranged Attack Bonus:**|  ½ Current Level |
 | **Saving Throw Modifiers:**| +2 to Poison, +2 to Dodges and Falls |
@@ -107,7 +107,7 @@
 | :--------------- | :--- |
 | **Required Attributes:**| Wisdom 9 OR Charisma 9 |
 | **Allowed Armor:** | Light and Medium Armors, Helmets, Shields (small) |
-| **Allowed Weapons:** | Staff, Club, Mace, Hammer, Oil |
+| **Allowed Weapons:** | Staff, Club, Mace, Oil (Daggers allowed if chaotic or evil alignment)|
 | **Melee Attack Bonus:**|  ½ Current Level |
 | **Ranged Attack Bonus:**|  none |
 | **Saving Throw Modifiers:**| +2 against fear effects |
@@ -118,7 +118,7 @@
 | **Skill Points, Initial:**| 2 |
 | **Skill Points, Levels 2-10:**| 1 |
 
- ### Class Abilities:
+### Class Abilities:
 * **Followers**
 * **Stronghold Creation:** Temple, Shrine
 * **Consecration**
