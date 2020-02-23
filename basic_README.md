@@ -11,8 +11,7 @@ _working title for an increasingly un-clonish retroclone styled game_
 
 [Ancestries](03_ancestries/README.md)
 
-[Classes](04_classes/README.md)
-* [Basic Classes](04_classes/classes_basic.md)
+[Basic Classes](04_classes/classes_basic.md)
 
 [Character Elements](05_character_elements/README.md)
 
@@ -35,10 +34,5 @@ _working title for an increasingly un-clonish retroclone styled game_
 
 ### Appendices  
 [Monsters](31_monsters/README.md)
-[Basic Rules](basic_README.md)
 
-
-## Detailed Table of Contents
-
-(forcoming)
 
