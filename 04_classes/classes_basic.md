@@ -17,11 +17,11 @@
 | **Skill Points, Initial:**| 1 |
 | **Skill Points, Levels 2-10:**| 1 |
 
-**Class Abilities:**
-* Destroyers of Men 
-* Followers
-* Stronghold Creation: Keep
-* Skills:
+### Class Abilities:
+* **Destroyers of Men** 
+* **Followers**
+* **Stronghold Creation:** Keep
+* **Skills**:
   * Accuracy
   * Consume Alcohol
   * Hear Noise
@@ -50,13 +50,13 @@
 | **Skill Points, Levels 2-10:**| 1 |
 
 
-**Class Abilities:**
-* Create Scrolls
-* Create Potions 
-* Spell Casting: Preparation
-* Spell Casting: Rituals
-* Stronghold Creation: Tower, Manse
-* Skills:
+### Class Abilities:
+* **Create Scrolls**
+* **Create Potions** 
+* **Spell Casting:** Preparation
+* **Spell Casting:** Rituals
+* **Stronghold Creation:** Tower, Manse
+* **Skills:**
   * Annoying Fact
   * Decipher Magical Scripts
   * Cantraps (Individual)
@@ -83,8 +83,8 @@
 | **Skill Points, Initial:**| 4 |
 | **Skill Points, Levels 2-10:**| 2 |
 
-**Class Abilities:**
-* Skills:
+### Class Abilities:
+* **Skills:**
   * Architecture
   * Backstab
   * Climb Walls
@@ -96,11 +96,11 @@
   * Search
   * Steal
   * Stealth
-* Skim off the Top:** Members of the underworld can't keep their hands off loot.  Characters of the burglar (and burglar) class automatically get %1 per level of coin and non-precious stones loot collected by the party before any shares or divisions are calculated.  This represents their penchant for being the first with their hands in the sack, lifting of small amounts of coins during sorting, and intentional miscalculations during the actual division of shares ("one for you, two for me"). _Thieves and burglars gain experience points for any of the above skimming activity as they would for any other treasure._
-* Hidden knife - when searched or apprehended a burglar can keep a small knife secreted on their person, unless completed disrobed or magical means of detection are used.
-* No honor among thieves
+* **Skim off the Top:** Members of the underworld can't keep their hands off loot.  Characters of the burglar (and burglar) class automatically get %1 per level of coin and non-precious stones loot collected by the party before any shares or divisions are calculated.  This represents their penchant for being the first with their hands in the sack, lifting of small amounts of coins during sorting, and intentional miscalculations during the actual division of shares ("one for you, two for me"). _Thieves and burglars gain experience points for any of the above skimming activity as they would for any other treasure._
+* **Hidden knife:** when searched or apprehended a burglar can keep a small knife secreted on their person, unless completed disrobed or magical means of detection are used.
+* **No honor among thieves**
 
- ## Prophet 
+## Prophet 
  _Also Cleric, Priest, Seer, and Revelator_
 
 | **Class Details** | |
@@ -118,14 +118,14 @@
 | **Skill Points, Initial:**| 2 |
 | **Skill Points, Levels 2-10:**| 1 |
 
- **Class Abilities:**
-* Followers
-* Stronghold Creation: Temple, Shrine
-* Consecration
-* Spell Casting: Prayers
-* Spell Casting: Rituals
-* Miracles: Divine intervention (level 5+ spell effects, etc)
-* Skills:
+ ### Class Abilities:
+* **Followers**
+* **Stronghold Creation:** Temple, Shrine
+* **Consecration**
+* **Spell Casting:** Prayers
+* **Spell Casting:** Rituals
+* **Miracles:** Divine intervention (level 5+ spell effects, etc)
+* **Skills:**
   * Bless
   * Chirurgy
   * Circle of Faith
