@@ -12,6 +12,7 @@ _working title for an increasingly un-clonish retroclone styled game_
 [Ancestries](03_ancestries/README.md)
 
 [Classes](04_classes/README.md)
+* [Basic Classes](04_classes/classes_basic.md)
 
 [Character Elements](05_character_elements/README.md)
 
