@@ -12,6 +12,7 @@ Determines:
 * encounter activity
 
 ## Encounter Cover
+
 | 2d6  | Cover  |
 |---|---|
 2| monster - hard
@@ -25,6 +26,7 @@ Determines:
 12| PCs - hard
 
 ## Encounter Distance
+
 |  2d6 | Distance  |
 |---|---|
 2| 20'
@@ -40,6 +42,7 @@ Determines:
 12| 120'
 
 ## Encounter Elevation
+
 | 2d6  | Relative Elevation  |
 |---|---|
 2-3| monster higher
@@ -51,6 +54,7 @@ Determines:
 11-12| character higher
 
 ## Encounter Activity
+
 | 2d6  | Activity, Humanoid  | Activity, Animal/Monster
 |---|---|---|
 2| Lost, escpaing
@@ -62,6 +66,7 @@ Determines:
 12| Fleeing encounter
 
 ## Encounter Reaction
+
 | 2d6  | Reaction  |
 |---|---|
 |2| Immediate Attack
@@ -71,6 +76,7 @@ Determines:
 |12| Enthusiastic Friendship
 
 ## Encounter Visibility
+
 | 2d6  | Visibility  |
 |---|---|
 |1| clear
