@@ -41,5 +41,5 @@ _working title for an increasingly un-clonish retroclone styled game_
 
 ## Detailed Table of Contents
 
-(forcoming)
+(forthcoming)
 
