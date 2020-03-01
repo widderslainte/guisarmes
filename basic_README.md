@@ -22,6 +22,7 @@ _working title for an increasingly un-clonish retroclone styled game_
 [Adventuring](07_adventuring/README.md)
 
 [Encounters](08_encounters/README.md)
+* [Encounter Generation](08_encounters/encounter_generation.md)
 
 [Magic](09_magic_README.md)
 
