@@ -16,6 +16,7 @@ _working title for an increasingly un-clonish retroclone styled game_
 [Character Elements](05_character_elements/README.md)
 
 [Equipment & Money](06_equipment_money/README.md)
+* [Basic Equipment](06_equipment_money/equipment_basics.md)
 
 ### Playing the Game
 
