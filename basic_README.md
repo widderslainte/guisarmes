@@ -1,4 +1,4 @@
-# Guisarmes & Golems
+# Guisarmes & Golems, Basic Edition
 
 _working title for an increasingly un-clonish retroclone styled game_
 
