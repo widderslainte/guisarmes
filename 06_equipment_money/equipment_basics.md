@@ -29,24 +29,28 @@ _common examples compared to standard values above_
 
 ### Standard of Living
 
-|Standard of Living  |	Monthly Cost | Common Profession |    |    |
-| -------------------|---------------|-------------------|----|----|
-| Street             |               |                   |    |
-| Poverty            |               |                   |    |
-| Adequate           |               |                   |    |
-| Comfortable        |               |                   |    |
-| Wealthy            |               |                   |    |
-| Nobility           |               |                   |    |
+|Standard of Living  |	Monthly Cost | Common Profession | Benefits | Risks  |
+| -------------------|---------------|-------------------|----------|--------|
+| Street             |               |                   |          |
+| Poverty            |               |                   |          |
+| Adequate           |               |                   |          |
+| Comfortable        |               |                   |          |
+| Wealthy            |               |                   |          |
+| Nobility           |               |                   |          |
 
 
 ### General Notes
+
 _pointless intro paragraph_
 
 #### Looting and resale
+
 _guidelines for what can be salvaged and expected value_
 
 ## Equipment Avaibility Overview
+
 _by market, region, rarity_
+
 ### Build/Repair/Import/Seasonal
 
 #### Commissioning Equipment
@@ -55,12 +59,15 @@ _cost_
 _time_
 
 ### Village
+
 _common availability and pricing differences_
 
 ### Keep
+
 _common availability and pricing differences_
 
 ### Regional Town
+
 _common availability and pricing differences_
 
 
@@ -208,10 +215,8 @@ _See charts and descriptions below_
 |-------------------------|----------|-----------|
 | Bedroll                 | 2sp      | 1sp       |
 | Block & tackle          | 2sp      | 3sp       |
-| Book, blank             | 5sp      | 10sp      |
-| Book, reading           | 10sp     | 20sp      |
 | Book, spell (blank)     | 100sp    | --        |
-| Caltrop                 | 5cp      | --        |
+| Caltrops(6)             | 3sp      | --        |
 | *Candle*                | 1cp      | 1cp       |
 | Chain, per foot         | 1sp      | 2sp       |
 | *Chalk*                 | 1cp      | 1cp       |
@@ -220,50 +225,34 @@ _See charts and descriptions below_
 | Crowbar                 | 2sp      | 2sp       |
 | Drill                   | 5sp      | 5sp       |
 | Fishing gear            | 1sp      | 1sp       |
-| Flask of lamp oil       | 2sp      | 2sp       |
+| Flask of oil            | 5sp      | 10sp      |
 | Grappling hook          | 5sp      | 10sp      |
 | Hammer                  | 3sp      | 2sp       |
-| Hourglass               | 100sp    | --        |
 | *Ink and Quill*         | 1cp      | 5cp       |
 | Instrument, musical     | > 1sp    | > 5sp     |
 | _Ladder, 10'_           | 10sp     | 7sp       |
-| Lantern                 | 10sp     | 7sp       |
+| Lantern                 | 15sp     | 10sp      |
 | Lard                    | 1cp      | 1cp       |
-| Lock                    | 7sp      | 10sp      |
-| Mallet                  | 3cp      | 3cp       |
-| Manacles                | 10sp     | 15sp      |
-| *Map, local*            | 1sp      | 5sp       |
-| Mirror, glass           | 10sp     | 15sp      |
 | *Mirror, silver*        | 30sp     | --        |
 | *Mirror, steel*         | 1sp      | 5sp       |
-| *Nails*                 | 1cp      | 2cp       |
-| Oil, lamp, flask        | 2sp      | 1sp       |
-| Oil, military, flask    |  --      | 10sp      |
 | *Paper*                 | 2cp      | 2cp       |
 | Pick, miner's           | 6sp      | 12sp      |
 | *Pipe*                  | 1sp      | 5cp       |
 | Pole, 10'               | 1sp      | 5cp       |
-| Pulley                  | 5sp      | 3sp       |
 | Rope, 50'               | 3sp      | 3sp       |
-| Saddle and Tack (draft) | 25       | 12	     |
-| Saddle and Tack (riding)|	25       | 10        |
-| Saddle and Tack (war)	  |	50       | 50        |
+| Saddle and Tack         |	25sp     | 10sp      |
 | Scroll case, leather    | 1sp      | 3sp       |
 | Scroll case, bone       | 5sp      | 15sp      |
 | Shovel                  | 3sp      | 3sp       |
-| *Soap*                  | 1cp      | 1cp       |
-| *Spike, iron*           | 3cp      | 5cp       |
+| Spikes, irons (10)      | 3sp      | 5sp       |
 | Spyglass                | 250sp    | --        |
-| Stake and mallets       |  3sp     |  3sp      |
-| _Tent, personal_        | 5sp      | 10sp      |
-| _Rent, regular_         | 10sp     | 20sp      |
+| _Tent_                  | 10sp     | 20sp      |
 | Thieve's tools          | 50sp     | --        |
 | Tinderbox               | 1sp      | 5sp       |
-| Tobacco                 | 1sp      | 5cp       |
-| Torch                   | 1cp      | 1cp       |
-| *Vial or bottle, empty* | 5cp      | 7cp       |
+| Torches (3)             | 3cp      | 3cp       |
+| *Vial, empty*           | 5cp      | 7cp       |
 | Waterskin               | 1sp      | 1sp       |
-| *Whistle*               | 1sp      | 1sp       |
+
 
 
 ### Religious Items
@@ -289,7 +278,10 @@ _See charts and descriptions below_
 | Comfrey                 |  3cp      | 10sp     |
 | *Garlic*                |  1cp      |  3cp     |
 | Goldenrod               |  5sp      | 10sp     |
+| Smoking Herbs, Normal   |  1sp      |  5cp     |
 | *Wolvesbane*            |  1sp      | 10sp     |
+| Cinnamon (cetc,1lb)     | 20sp      | 10sp     |
+| Saffron (1lb)	     	  |           | 50sp     |
 
 ### Clothing
 
@@ -342,21 +334,17 @@ _See charts and descriptions below_
 | Wine, Bottle - Good           | > 1sp     | >1sp
 | Beer/Ale, Pint - cheap        | 1cp       | 1cp
 | Beer/Ale, Pint - decent       | 2cp       | 3cp
-| Meal, rich                    | > 10sp    | >15sp
+| Meal, fine                    | > 10sp    | >15sp
 | Meal, standard                | 3cp       | 5cp
 | Rations, iron (7 days)        | 7sp       | 14sp
 | Rations, standard (5 days)    | 3sp       | 5sp
-| Cheese (1lb)   			    |           | 1sp
-| Meat (mutton or pork, 1lb)    |           | 3sp
-| Cinnamon (clover, pepper,1lb) |  	        | 10sp
-| Saffron (1lb)	     	     	|           | 50sp
+| Feed, Animal (5 days)         | 3sp       |  5sp
 
 
 ### Animals and Livestock
 
 | **Item**       | **Rural** | **City** |
 |----------------|-----------|----------|
-| Carrier Pigeon |   100     | 100      |
 | Chicken (3lb)	 |	 2cp	 |   5cp    |
 | Cow (550lb)	 |    50	 | 100      |
 | Dog (hunting)	 |     3	 |   3      |
@@ -365,16 +353,13 @@ _See charts and descriptions below_
 | Goat (125lb)	 |     1	 |   3      |
 | Hawk (trained) |	 100     |  50      |
 | Horses         |           |          |
-|-- Heavy Draft  |	  75	 | 100      |
+|-- Draft        |	  75	 | 100      |
 |-- Heavy War    |	  --     | 700  	|
-|-- Medium War   |    --     | 500      |
-|-- Riding       |   100     | 100      |
 |-- Light War	 |    --     | 300      |
+|-- Riding       |   100     | 100      |
 | Mule           |    25     |  50      |
-| Ox (2,000lb)   |	 100	 | 100      |
 | Pig (125lb)	 |	   5	 |  15      |
 | Pony           |    50     |  75      |
-| Sheep (80lb)	 |	   2	 |   5      |
 
 ### Transport
 
