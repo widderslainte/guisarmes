@@ -35,7 +35,7 @@ _working title for an increasingly un-clonish retroclone styled game_
 [Treasure](22_treasure/README.md)
 
 ### Appendices  
-[Monsters](31_monsters/README.md)
+[Monsters](31_monsters/README.md)  
 [Basic Rules](basic_README.md)
 
 
