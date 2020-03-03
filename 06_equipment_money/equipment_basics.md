@@ -256,6 +256,7 @@ _See charts and descriptions below_
 
 
 ### Religious Items
+
 | **Item**                | **City** | **Rural** |
 |-------------------------|----------|-----------|
 | Talisman, Mindat, Basic |          |           |
@@ -272,6 +273,7 @@ _See charts and descriptions below_
 | Spiritmask, Chlendi     |          |           |
 
 ### Herbs
+
 | **Item**                | **Rural** | **City** |
 |-------------------------|-----------|----------|
 | Belladona               |  5cp      |  1sp     |
@@ -379,11 +381,9 @@ _See charts and descriptions below_
 | **Item**                    | **Rural** | **City** |
 |-----------------------------|-----------|----------|
 | Barn                        | 1cp       |    --    |
-| Inn, poor                   | 5cp       |    1sp   |
+| Inn, sketchy                | 5cp       |    1sp   |
 | Inn, average                | 2sp       |    5sp   |
-| Inn, secure                 | 5sp       |    10sp  |
-| Inn, fancy                  | > 2sp     | >  25sp  |
-| Inn, extravagant            | > 25sp    | > 100sp  |
+| Inn, fine                   | 10sp      |    50sp  |
 | Rent, 1 month (per 10' sq.) | 15sp      |    30sp  |
 | Stabling (riding horse)     |	2sp		  |     5sp  |
 | Stabling (warhorse) 	      |	5sp 	  |    10sp  |
@@ -432,14 +432,17 @@ Specialists
 
 
 ### Character Movement and Encumbrance
+
 |Encumbrance	   |Exploration Movement |Combat Movement | Running Movement|
 |------------------|---------------------|----------------|-----------------|
 
 ### Animal/Vehicle Movement and Encumbrance
+
 | Animal/Vehicle |	Exploration Movement | Normal Load | Maximum Load |
 |----------------|-----------------------|-------------|--------------|
 
 #### Burden
+
 | Animal Cost (gp) | Miles/Day| Movement Rate | Max Encumbrance (Coins) | Notes |
 |------------------|----------|---------------|-------------------------|-------|
 
