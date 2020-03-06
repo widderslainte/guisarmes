@@ -31,12 +31,12 @@ _common examples compared to standard values above_
 
 |Standard of Living  |	Monthly Cost | Common Profession | Benefits | Risks  |
 | -------------------|---------------|-------------------|----------|--------|
-| Street             |               |                   |          |
-| Poverty            |               |                   |          |
-| Adequate           |               |                   |          |
-| Comfortable        |               |                   |          |
-| Wealthy            |               |                   |          |
-| Nobility           |               |                   |          |
+| Street             |               |                   |          |        |
+| Poverty            |               |                   |          |        |
+| Adequate           |               |                   |          |        |
+| Comfortable        |               |                   |          |        |
+| Wealthy            |               |                   |          |        |
+| Nobility           |               |                   |          |        |
 
 
 ### General Notes
@@ -83,24 +83,23 @@ _See charts and descriptions below_
 ### Armor
 
 |**Armor**			  | Rural | City | AC	 | Encumbrance | Max Move | Availability | Enc (coin) | Enc (slot) |
-|---------------------|-------|------|-----|-------------|----------|--------------|------------|------------|
-| Breast & Back       |  -    |  75  | 4   | 300  | 90'  | Common
-| Buff Coat           |  30   |  15  | 1   | 100  | 120' | Common
+|---------------------|-------|------|-------|-------------|----------|--------------|------------|------------|
+| Breast & Back       |  -    |  75  | 4     | 300  | 90'  | Common
+| Buff Coat           |  30   |  15  | 1     | 100  | 120' | Common
 | Brigandine	      |  -    |  80  | 3	 | 350  | 120' | Common
-| Codpiece, mundane   |  -    |   5  | 0   |   0  | 120' | Common
+| Codpiece, mundane   |  -    |   5  | 0     |   0  | 120' | Common
 | Hides / Fur    	  |  10   |  15  | 1	 | 200  | 90'  | Common
 | Lamellar, Steel     |  -	  | 125  | 6	 | 300  | 90'  | Common
 | Leather, Cuir Bouilli |  20 |  20  | 2	 | 120  | 120' | Common
 | Maile, Hauberk      |  -	  | 100  | 5	 | 300  | 90'  | Common
 | Maile, Plated	      |  -	  | 800  | 7	 | 450  | 60'  | Common
-| Maile, Shirt        |  -    |  75  | 4   | 250  | 90'  | Common
-| Pitch Jacket        |  3    |   3  | 1   | 150  | 120' | Common
+| Pitch Jacket        |  3    |   3  | 1     | 150  | 120' | Common
 | Shield, Large	      |  -	  |  20  | +2	 | 100  | N/A  | Common
 | Shield, Medium	  |  20	  |  12  | +1	 |  80  | N/A  | Common
 | Shield, Nog Coverage| --    | 100  | +1	 |  N/A | N/A  | Common
 | Shield, Small	      |  15	  |  10  | +1	 |  50  | N/A  | Common
-| Shield, Small wood  |   3   |   5  | +1  |  30  | N/A  | Common
-| Shield, buckler     |  20   |   8  | +1  |  25  | N/A  | Common
+| Shield, Small wood  |   3   |   5  | +1    |  30  | N/A  | Common
+| Shield, buckler     |  20   |   8  | +1    |  25  | N/A  | Common
 | Studded Leather 	  |  25	  |  25  | 3	 | 200  | 90'  | Common
     
 
@@ -114,23 +113,6 @@ _See charts and descriptions below_
 | Helmet, Sallet         |    25 |   10 |  +1 |              |              |              |            | +2 Save    |
 | Skullcap, Metal        |     5 |   10 |   - |              |              |              |            | +1 Save    |
 
-#### Armor Descriptions
-* Breast & Back - pair of steel plates worn over the chest, often with a soft leather garment underneath. The back plate is typically excluded by cavalry.
-* Brigandine - long coat of leather bands, each studded and embedded with steel plates.
-* Buff Coat - heavy coat of quilted cloth, often in multiple layers.
-* Codpiece, mundane
-* Cloak - heavy cloth garment of wool, cotton or other material, used hung over offhand arm as shield and for weapon entanglment.
-* Furs - soft leather or hide coat, tunic, or jacket padded with heavy furs for warmth, treat as padded armour.
-* Helmets -  _Description pending - 
-* Hides, Regional
-  * Hide, Zhouna - stripes of the hide of zhounas, the reptilian riding beasts of the Mindat.
-* Leather, Cuir Bouilli
-* Maile, Hauberk - long sleeved, ankle length coat and skirt of steel rings, linked in one to four pattern.
-* Maile, Plated - also, half plate. Heavy steel plates being riveted to a backing made of chain and leather. Laminated and made into coat with skirt, with greaves, pauldroons, and coverings for other extremities.
-* Maile, Shirt - short sleeved, hip length coat of steel rings, linked in one to four pattern.
-* Pitch Jacket - a cheap or expeditious form of cuir bouilli, this a coat or jackets of cotton or wool soaked repeated in pitch.
-* Shields - a variety of shapes and sizes, made of wood (often covered with leather or hide) or metal. Large, Small, Small wooden
-* Studded Leather - soft leather, usually with a cuir bouilli breastplate, closely studded with steel rivets.
 
 ### Weapons
 
@@ -204,11 +186,6 @@ _See charts and descriptions below_
 
 ## General Equipment
 
-### Miscellaneous, Unsorted
-* Rumors 10-60
-* Ads for hires 100sp each
-* potion of mithridate 1000
-
 ### Miscellaneous
 
 | **Item**                | **City** | **Rural** |
@@ -274,16 +251,17 @@ _See charts and descriptions below_
 
 ### Herbs
 
-| **Item**                | **Rural** | **City** |
-|-------------------------|-----------|----------|
-| Belladona               |  5cp      |  1sp     |
-| Comfrey                 |  3cp      | 10sp     |
-| *Garlic*                |  1cp      |  3cp     |
-| Goldenrod               |  5sp      | 10sp     |
-| Smoking Herbs, Normal   |  1sp      |  5cp     |
-| *Wolvesbane*            |  1sp      | 10sp     |
-| Cinnamon (cetc,1lb)     | 20sp      | 10sp     |
-| Saffron (1lb)	     	  |           | 50sp     |
+| **Item**                | **Rural** |  **City**  |
+|-------------------------|-----------|------------|
+| Belladona               |  5cp      |    1sp     |
+| Comfrey                 |  3cp      |   10sp     |
+| *Garlic*                |  1cp      |    3cp     |
+| Goldenrod               |  5sp      |   10sp     |
+| Smoking Herbs, Normal   |  1sp      |    5cp     |
+| *Wolvesbane*            |  1sp      |   10sp     |
+| Cinnamon (cetc,1lb)     | 20sp      |   10sp     |
+| Saffron (1lb)	     	  |           |   50sp     |
+| Vial of mithridate      |           | 1000sp     |
 
 ### Clothing
 
@@ -307,10 +285,10 @@ _See charts and descriptions below_
 | Turban, Chlendi             | 	  |	   1 |             |              |         |
 | Wig, cheap                  |		  |	   5 |             |              |         |
 | Wig, fine quality           |		  |	  50 |             |              |         |
-| *Clothing, extravagant*     | --    | > 20sp        |  |              |         |
-| *Clothing, normal*          | 2sp   | 5sp       |  |              |         |
-| *Clothing, poor*            | 5cp   | 1sp       | |              |         |
-| *Clothing, winter travel*   | 5sp   | 10sp       | |              |         |
+| *Clothing, extravagant*     | --    | 20+sp |           |              |         |
+| *Clothing, normal*          | 2sp   | 5sp   |            |              |         |
+| *Clothing, poor*            | 5cp   | 1sp   |            |              |         |
+| *Clothing, winter travel*   | 5sp   | 10sp  |            |              |         |
 
 ### Containers
 
@@ -397,14 +375,20 @@ _See charts and descriptions below_
 
 
 ## Services
-### Temple Services & Magic
-### Magic
-Spell Availability
-    By level and market
-Scroll Availability
-    By level and market
 
-## Followers and Employees
+| Miscellaneous               | **Rural** | **City** |
+| ----------------------------|-----------|----------|
+| Rumors                      |  10-60sp  |  10-60sp |
+| Ads for hires               |    100sp  |    100sp |
+
+### Temple Services & Magic
+
+### Magic
+
+* Spells
+* Scrolls 
+
+## Retainers and Employees
 
 | **Item**           | **Rural** | **City** | Availability   |Special       |              |
 |--------------------|-----------|----------|----------------|--------------|--------------|
@@ -433,8 +417,8 @@ Specialists
 
 ### Character Movement and Encumbrance
 
-|Encumbrance	   |Exploration Movement |Combat Movement | Running Movement|
-|------------------|---------------------|----------------|-----------------|
+| Encumbrance	   | Exploration Movement | Combat Movement | Running Movement |
+|------------------|----------------------|-----------------|-----------------|
 
 ### Animal/Vehicle Movement and Encumbrance
 
@@ -447,3 +431,23 @@ Specialists
 |------------------|----------|---------------|-------------------------|-------|
 
 #### Container Capacity
+
+## Equipment and Service Descriptions
+
+#### Armor Descriptions
+* Breast & Back - pair of steel plates worn over the chest, often with a soft leather garment underneath. The back plate is typically excluded by cavalry.
+* Brigandine - long coat of leather bands, each studded and embedded with steel plates.
+* Buff Coat - heavy coat of quilted cloth, often in multiple layers.
+* Codpiece, mundane
+* Cloak - heavy cloth garment of wool, cotton or other material, used hung over offhand arm as shield and for weapon entanglment.
+* Furs - soft leather or hide coat, tunic, or jacket padded with heavy furs for warmth, treat as padded armour.
+* Helmets -  _Description pending - 
+* Hides, Regional
+  * Hide, Zhouna - stripes of the hide of zhounas, the reptilian riding beasts of the Mindat.
+* Leather, Cuir Bouilli
+* Maile, Hauberk - long sleeved, ankle length coat and skirt of steel rings, linked in one to four pattern.
+* Maile, Plated - also, half plate. Heavy steel plates being riveted to a backing made of chain and leather. Laminated and made into coat with skirt, with greaves, pauldroons, and coverings for other extremities.
+* Maile, Shirt - short sleeved, hip length coat of steel rings, linked in one to four pattern.
+* Pitch Jacket - a cheap or expeditious form of cuir bouilli, this a coat or jackets of cotton or wool soaked repeated in pitch.
+* Shields - a variety of shapes and sizes, made of wood (often covered with leather or hide) or metal. Large, Small, Small wooden
+* Studded Leather - soft leather, usually with a cuir bouilli breastplate, closely studded with steel rivets.
