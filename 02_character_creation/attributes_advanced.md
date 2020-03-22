@@ -16,4 +16,6 @@
 ### Secondary
 
 * Violence
+* Soul
+* Courage
 * Base Health Die: rolled for natural healing and other effects.  Drops like usage die with conditions, recovered with rest and resets in civiliation
