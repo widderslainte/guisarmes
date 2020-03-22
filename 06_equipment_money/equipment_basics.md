@@ -1,27 +1,24 @@
 # Appendix U, Basic Equipment List
 
 
-## The Basics of Equipment
-
 _pointless intro paragraph_
 
 #### Starting money and trappings
 
 _Purchasing Equipment at start_
 
-### Coins and Money
+### Coins and Currency
 
 _(vs credit, paper, barter)_
 
 #### Traditional Exchange Value
 
-| **Coins**		      | Cp | Sp | Ep | Gp | Pp |
-| ------------------|----|----|----|----|----|
-| Copper Piece      |1   |   -|   -|   -|   -|
-| Silver Piece      |10  |   1|   -|   -|   -|
-| Electrum Piece    |50  |   5|   1|   -|   -|
-| Gold Piece        |100 |  10|   2|   1| -  |
-| Platinum Piece    |500 |  50|  10|   5|  1 |
+| **Coinage**		    | Equivalence      |
+| ------------------|------------------|
+|  1 silver pieces  | 10 copper pieces |
+| 10 silver pieces  | 1 gold piece     |
+|  5 silver pieces  | 1 electrum piece |
+| 50 silver pieces  | 1 platinum piece |
 
 #### Uod Coinage - Regional
 
@@ -32,10 +29,10 @@ _common examples compared to standard values above_
 | Standard of Living |	Monthly Cost | Common Profession | Benefits | Risks  |
 | -------------------|---------------|-------------------|----------|--------|
 | Street             |               |                   |          |        |
-| Poverty            |               |                   |          |        |
-| Adequate           |               |                   |          |        |
-| Comfortable        |               |                   |          |        |
-| Wealthy            |               |                   |          |        |
+| Destitute            |               |                   |          |        |
+| Common          |               |                   |          |        |
+| Affluent        |               |                   |          |        |
+| Oppulent            |               |                   |          |        |
 | Nobility           |               |                   |          |        |
 
 
@@ -99,7 +96,7 @@ _See charts and descriptions below_
 | ------------------------------|-------|------|------------|-------------|--------------|-------------|
 |Axes:			                    |       |      |            |             |              |             |
 | -  War Axe		                |   50  |   30 |   1d6/1d8  |             |              |             |
-| -  Great Axe (two-handed)     |   --  |   40 |	    1d10  |             |              |             |
+| -  Great Axe (2H)     |   --  |   40 |	    1d10  |             |              |             |
 | -  Hand Axe  		         	    |    8  |    8 |	     1d6  |             |              |             |
 | Cestus, Knuckledusters, Hook  |   --  |   10 |       1d3  |             |              |             |
 | Dagger                        |   10  |   10 |       1d4  |             |              |             |
@@ -109,7 +106,7 @@ _See charts and descriptions below_
 | -  Club 	      		          |    5  |   5  |	     1d4  |             |              |             |
 | -  Flail, footman's	          |   40  |  20  |   1d6/1d8  |             |              |             |
 | -  Mace, footman's            |   35  |  20  |   1d6/1d8  |             |              |             |
-| -  Morning Star (two-handed)  |	  --  |  50  |	    1d10  |             |              |             |
+| -  Morning Star (2H)  |	  --  |  50  |	    1d10  |             |              |             |
 | -  War Hammer 	 		          |   50  |  20  |   1d6/1d8  |             |              |             |
 | Garotte                       |   --  |   5  |       1d6  |             |              |
 | Lance                         |   --  |  30  |      1d10  |             |              | charge from horseback
@@ -130,7 +127,7 @@ _See charts and descriptions below_
 | --Sword, Long                 |   50  |  40  |       1d8  |             |              |
 | --Sword, Rapier               |   --  |  40  |       1d8  |             |              |
 | --Sword, Tulwar               |   50  |  30  |       1d8  |             |              |
-| --Sword, Two-handed           |   --  |  50  |      1d10  |             |              |
+| --Sword, Two-handed (2H)           |   --  |  50  |      1d10  |             |              |
 | Whip                          |   25  |  10  |       1d2  |             |              | can entangle
 
 #### Ranged
@@ -179,7 +176,6 @@ _See charts and descriptions below_
 | Crowbar                 | 2sp      | 2sp       |
 | Drill                   | 5sp      | 5sp       |
 | Fishing gear            | 1sp      | 1sp       |
-| Flask of oil            | 5sp      | 10sp      |
 | Grappling hook          | 5sp      | 10sp      |
 | Hammer                  | 3sp      | 2sp       |
 | *Ink and Quill*         | 1cp      | 5cp       |
@@ -189,6 +185,7 @@ _See charts and descriptions below_
 | Lard                    | 1cp      | 1cp       |
 | *Mirror, silver*        | 30sp     | --        |
 | *Mirror, steel*         | 1sp      | 5sp       |
+| Oil, Flask              | 5sp      | 10sp      |
 | *Paper*                 | 2cp      | 2cp       |
 | Pick, miner's           | 6sp      | 12sp      |
 | *Pipe*                  | 1sp      | 5cp       |
@@ -225,6 +222,7 @@ _See charts and descriptions below_
 | Idols, travel size      |          |           |  
 | Ghostpowder             |          |           |
 | Spiritmask, Chlendi     |          |           |
+| Bell, brass             |          |           |
 
 ### Herbs
 
@@ -244,11 +242,14 @@ _See charts and descriptions below_
 
 | **Item**	     		          | Rural | City | Encumbrance | Availability | Special |
 | ----------------------------|-------|------|-------------|--------------|---------|
-| Belt / Sash (leather)		    |    	1 |    1 |             |              |         |
-| Boots (leather, low)		    |   	  |	   6 |             |              |         | 
-| Boots (leather, high)		    |  	    |	   3 |             |              |         |
-| Cloak (fur-lined, winter)	  |   	  |   15 |             |              |         |
-| Cloak (long, hooded)		    |		    |    1 |             |              |         |
+| Belt 		                    |    	1 |    1 |             |              |         |
+| Boots soft, low		          |   	  |	   6 |             |              |         | 
+| Boots soft, high		        |  	    |	   3 |             |              |         |
+| Cloak, hooded		            |		    |    1 |             |              |         |
+| Cloak, heavy, winter	      |   	  |   15 |             |              |         |
+| Cloth, cotton, bolt			    |	      |   25 |             |              |         |
+| Cloth, silk, bolt			      |	      |  100 |             |              |         |
+| Cloth, wool, bolt			      |	      |   10 |             |              |         |
 | Gloves				              |       |    4 |             |              |         |
 | Hat, Mindat Academic        |       |      |             |              |         |
 | Hat, Cavalier               |       |      |             |              |         |
@@ -257,8 +258,7 @@ _See charts and descriptions below_
 | Hat, Phrygian               |       |      |             |              |         |
 | Hat, Wide brimmed           |       |      |             |              |         |
 | Robe (vestment or academic) |		    |	   6 |             |              |         |
-| Silk (1 yard)			          |	      |   15 |             |              |         |
-| Sandals / Shoes (leather)	  |   	  |    1 |             |              |         |
+| Shoes,leather	              |   	  |    1 |             |              |         |
 | Turban, Chlendi             | 	    |	   1 |             |              |         |
 | Wig, cheap                  |		    |	   5 |             |              |         |
 | Wig, fine quality           |		    |	  50 |             |              |         |
@@ -287,15 +287,15 @@ _See charts and descriptions below_
 
 | **Item**                      | **Rural** | **City** |
 |-------------------------------|-----------|----------|
-| Wine, Bottle - Poor           | 2cp       | 5cp
-| Wine, Bottle - Good           | > 1sp     | >1sp
-| Beer/Ale, Pint - cheap        | 1cp       | 1cp
-| Beer/Ale, Pint - decent       | 2cp       | 3cp
+| Wine, Bottle - Poor           | 2cp       |   5cp
+| Wine, Bottle - Good           | > 1sp     |  >1sp
+| Beer/Ale, Pint - cheap        | 1cp       |   1cp
+| Beer/Ale, Pint - decent       | 2cp       |   3cp
 | Meal, fine                    | > 10sp    | >15sp
-| Meal, standard                | 3cp       | 5cp
-| Rations, iron (7 days)        | 7sp       | 14sp
-| Rations, standard (5 days)    | 3sp       | 5sp
-| Feed, Animal (5 days)         | 3sp       |  5sp
+| Meal, standard                | 3cp       |   5cp
+| Rations, iron (7 days)        | 7sp       |  14sp
+| Rations, standard (5 days)    | 3sp       |   5sp
+| Feed, Animal (5 days)         | 3sp       |   5sp
 
 
 ### Animals and Livestock
@@ -402,18 +402,21 @@ Henchmen
 
 #### Character Movement and Encumbrance
 
-| Encumbrance	   | Exploration Movement | Combat Movement | Running Movement |
+| Encumbrance	     | Exploration Movement | Combat Movement | Running Movement |
 |------------------|----------------------|-----------------|-----------------|
+| | | | |
 
 #### Animal/Vehicle Movement and Encumbrance
 
 | Animal/Vehicle |	Exploration Movement | Normal Load | Maximum Load |
 |----------------|-----------------------|-------------|--------------|
+| | | | 
 
 #### Burden
 
 | Animal Cost (gp) | Miles/Day| Movement Rate | Max Encumbrance (Coins) | Notes |
 |------------------|----------|---------------|-------------------------|-------|
+| | | | |
 
 #### Container Capacity
 
