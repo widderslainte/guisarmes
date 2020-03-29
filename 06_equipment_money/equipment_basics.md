@@ -2,28 +2,28 @@
 
 _pointless intro paragraph_
 
-#### Starting money and trappings
+### Starting money and trappings
 
 #### Starting Money
 
- * **Prophet:** 2d6 x 10 silver pieces
- * **Warrior, Justicar:** 3d6 x 10 silver pieces
- * **Magician:** 2d4 x 10 silver pieces
- * **Burglar:** 2d6 x 10 silver pieces
+* **Prophet:** 2d6 x 10 silver pieces
+* **Warrior, Justicar:** 3d4 x 10 silver pieces
+* **Magician:** 2d6 x 10 silver pieces
+* **Burglar:** 2d6 x 10 silver pieces
 
- #### Common Starting Gear
+#### Common Starting Gear
  
- All characters begin with the following items:
- * One set of practical but weather-worn clothing, including shoes or light leather boots
- * A knife or small hatchet.
- * A small purse with their starting coins.
- * Flint & steel
- * A small sack or sling bag containing a blanket or bedroll, waterskin and messkit.
- * Plus:
-   * If a warrior or justicar: a pewter or leather tankard, and a club or spear
-   * If a prophet: a holy symbol of their faith, a book of prayers or devotions, and a set of practical vestments.
-   * If a magician: a basic spellbook, and a cloak or academic robe.
-   * If a burglar: a set of basic lockpicks, a club or sharp dagger, a cloak, and a ratty hat or hood.
+All characters begin with the following items:
+* One set of practical but weather-worn clothing, including shoes or light leather boots
+* A knife or small hatchet.
+* A small purse with their starting coins.
+* Flint & steel
+* A small sack or sling bag containing a blanket or bedroll, waterskin and messkit.
+* Plus:
+  * If a warrior or justicar: a pewter or leather tankard, and a club or spear
+  * If a prophet: a holy symbol of their faith, a book of prayers or devotions, and a set of practical vestments.
+  * If a magician: a basic spellbook, and a cloak or academic robe.
+  * If a burglar: a set of basic lockpicks, a club or sharp dagger, a cloak, and a ratty hat or hood.
 
 _Beginning Spells_
 _Prophet: All 1st level clerics begin with a prayer book (or set of runestones of other thematic equivalent) containing the steps to pray for all the 1st level clerical spells._
@@ -62,6 +62,13 @@ _common examples compared to standard values above_
 ### General Notes
 
 _pointless intro paragraph_
+
+#### Financial Services
+
+Loans = 20% interest/month  
+Gem/Jewelry Sale = 80% of actual price  
+Money changing = 3% fee  
+Savings = 0% interest 
 
 #### Looting and resale
 
@@ -228,7 +235,6 @@ _See charts and descriptions below_
 | Waterskin               | 1sp      | 1sp       |
 
 
-
 ### Religious Items
 
 | **Item**                | **City** | **Rural** |
@@ -255,6 +261,7 @@ _See charts and descriptions below_
 | *Garlic*                |  1cp      |    3cp     |
 | Goldenrod               |  5sp      |   10sp     |
 | Smoking Herbs, Normal   |  1sp      |    5cp     |
+| Smoking Tobacco         |  1cp      |    3cp     |
 | *Wolvesbane*            |  1sp      |   10sp     |
 | Cinnamon (cetc,1lb)     | 20sp      |   10sp     |
 | Saffron (1lb)	     	    |           |   50sp     |
