@@ -1,11 +1,34 @@
 # Appendix U, Basic Equipment List
 
-
 _pointless intro paragraph_
 
 #### Starting money and trappings
 
-_Purchasing Equipment at start_
+#### Starting Money
+
+ * **Prophet:** 2d6 x 10 silver pieces
+ * **Warrior, Justicar:** 3d6 x 10 silver pieces
+ * **Magician:** 2d4 x 10 silver pieces
+ * **Burglar:** 2d6 x 10 silver pieces
+
+ #### Common Starting Gear
+ 
+ All characters begin with the following items:
+ * One set of practical but weather-worn clothing, including shoes or light leather boots
+ * A knife or small hatchet.
+ * A small purse with their starting coins.
+ * Flint & steel
+ * A small sack or sling bag containing a blanket or bedroll, waterskin and messkit.
+ * Plus:
+   * If a warrior or justicar: a pewter or leather tankard, and a club or spear
+   * If a prophet: a holy symbol of their faith, a book of prayers or devotions, and a set of practical vestments.
+   * If a magician: a basic spellbook, and a cloak or academic robe.
+   * If a burglar: a set of basic lockpicks, a club or sharp dagger, a cloak, and a ratty hat or hood.
+
+_Beginning Spells_
+_Prophet: All 1st level clerics begin with a prayer book (or set of runestones of other thematic equivalent) containing the steps to pray for all the 1st level clerical spells._
+_Magician: All 1st level wizards begin with a standard spellbook containing Read Magic, and three other first level spells of their choice._
+
 
 ### Coins and Currency
 
@@ -29,10 +52,10 @@ _common examples compared to standard values above_
 | Standard of Living |	Monthly Cost | Common Profession | Benefits | Risks  |
 | -------------------|---------------|-------------------|----------|--------|
 | Street             |               |                   |          |        |
-| Destitute            |               |                   |          |        |
-| Common          |               |                   |          |        |
-| Affluent        |               |                   |          |        |
-| Oppulent            |               |                   |          |        |
+| Destitute          |               |                   |          |        |
+| Common             |               |                   |          |        |
+| Affluent           |               |                   |          |        |
+| Oppulent           |               |                   |          |        |
 | Nobility           |               |                   |          |        |
 
 
@@ -96,7 +119,7 @@ _See charts and descriptions below_
 | ------------------------------|-------|------|------------|-------------|--------------|-------------|
 |Axes:			                    |       |      |            |             |              |             |
 | -  War Axe		                |   50  |   30 |   1d6/1d8  |             |              |             |
-| -  Great Axe (2H)     |   --  |   40 |	    1d10  |             |              |             |
+| -  Great Axe (2H)             |   --  |   40 |	    1d10  |             |              |             |
 | -  Hand Axe  		         	    |    8  |    8 |	     1d6  |             |              |             |
 | Cestus, Knuckledusters, Hook  |   --  |   10 |       1d3  |             |              |             |
 | Dagger                        |   10  |   10 |       1d4  |             |              |             |
@@ -106,7 +129,7 @@ _See charts and descriptions below_
 | -  Club 	      		          |    5  |   5  |	     1d4  |             |              |             |
 | -  Flail, footman's	          |   40  |  20  |   1d6/1d8  |             |              |             |
 | -  Mace, footman's            |   35  |  20  |   1d6/1d8  |             |              |             |
-| -  Morning Star (2H)  |	  --  |  50  |	    1d10  |             |              |             |
+| -  Morning Star (2H)          |	  --  |  50  |	    1d10  |             |              |             |
 | -  War Hammer 	 		          |   50  |  20  |   1d6/1d8  |             |              |             |
 | Garotte                       |   --  |   5  |       1d6  |             |              |
 | Lance                         |   --  |  30  |      1d10  |             |              | charge from horseback
@@ -229,7 +252,6 @@ _See charts and descriptions below_
 | **Item**                | **Rural** |  **City**  |
 |-------------------------|-----------|------------|
 | Belladona               |  5cp      |    1sp     |
-| Comfrey                 |  3cp      |   10sp     |
 | *Garlic*                |  1cp      |    3cp     |
 | Goldenrod               |  5sp      |   10sp     |
 | Smoking Herbs, Normal   |  1sp      |    5cp     |
@@ -369,6 +391,7 @@ _See charts and descriptions below_
 * Potions and Poultices
 * Rituals
 * Scrolls
+* Spellbooks
 * Spells, Cast
 * Spells, Formula Purchase
 
