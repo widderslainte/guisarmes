@@ -2,12 +2,37 @@
 * Surprise
 * Encounter Distance
 * Reaction
-* Initiative and Combat Sequence
-* Combat Actions (things to do in one round)
-* Other Combat Issues
+
+### Initiative and Combat Sequence
+1. **Initiative**
+* Both sides roll 1d6. High roll has initiative.
+2. **Missiles & Quick Spells**
+* Winning side fires missiles, starts spells (and finishes most spells of level 1-2)
+* Losing side fires missiles, starts spells (and finishes most spells of level 1-2)
+3. **Movement**
+* Side with initiative moves up to half move.
+* Side without initiative moves up to half move.
+4. **Normal Spells**
+* Side with initiative - Spells that were started in 2 take effect (if they weren't completed earlier)
+* Side without initiative - Spells that were started in 2 take effect (if they weren't completed earlier)
+5. **Charges and Remaining Movement (A)**
+* Side with initiative completes any charges and remaining amount, if any.
+* If closing to melee, foes are now in engaged.
+6. **Charges and Remaining Movement (B)**
+* Side without initiative completes any charges and remaining amount, if any.
+* If closing to melee, foes are now in engaged.
+7. **Slow Spells**
+* Unengaged combatants fire missiles, cast spells, et cetera.
+8. **Melee**
+* Engaged combatants fight one round of melee.
+9. **Morale**
+* Morale is checked when appropriate
+
+### Combat Actions (things to do in one round)
+#### Other Combat Issues
     * Shields will be splintered
     * Look out, sir! (Hirelings will be splattered)
-* Unarmed Combat
+#### Unarmed Combat
 
 ## Saving Throws
 ## Morale
