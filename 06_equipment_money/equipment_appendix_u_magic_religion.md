@@ -27,12 +27,12 @@
 | **Item**                |  **City**  | **Rural** |
 |-------------------------|------------|-----------|
 | Belladona               |    1sp     |   5cp
-| *Garlic*                |    3cp     |   1cp
+| Garlic                  |    3cp     |   1cp
 | Goldenrod               |   10sp     |   5cp
 | Smoking Herbs, Normal   |    5cp     |   1sp
 | Smoking Tobacco         |    3cp     |   1cp
-| *Wolvesbane*            |   10sp     |   1sp
-| Cinnamon (cetc,1lb)     |   10sp     |  20sp
+| Wolvesbane              |   10sp     |   1sp
+| Cinnamon (etc,1lb)      |   10sp     |  20sp
 | Saffron (1lb)	     	  |   50sp     |  --
 | Vial of mithridate      | 1000sp     |  -- 
 | Healing poultice        | varies     | varies     
