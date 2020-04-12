@@ -99,7 +99,7 @@
   * Stealth
 * **Skim off the Top:** Members of the underworld can't keep their hands off loot.  Characters of the burglar (and burglar) class automatically get %1 per level of coin and non-precious stones loot collected by the party before any shares or divisions are calculated.  This represents their penchant for being the first with their hands in the sack, lifting of small amounts of coins during sorting, and intentional miscalculations during the actual division of shares ("one for you, two for me"). _Thieves and burglars gain experience points for any of the above skimming activity as they would for any other treasure._
 * **Hidden knife:** when searched or apprehended a burglar can keep a small knife secreted on their person, unless completed disrobed or magical means of detection are used.
-* **No honor among thieves**
+* **No honor among thieves:** Burglars are paranoid.  By secreting teasures away in remote or hidden location known to no others, they can gain the benefit of experience points without a return to civilization.  This can be a chest buried underground or even a sack in a old dead tree, but it must be a secret known only to the burglar.  If the treasure is stolen, any experience points garnered are immediately lost.
 
 ## Prophet 
  _Also Cleric, Priest, Seer, and Revelator_

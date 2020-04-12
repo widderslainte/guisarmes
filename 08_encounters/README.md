@@ -32,6 +32,7 @@
 #### Other Combat Issues
     * Shields will be splintered
     * Look out, sir! (Hirelings will be splattered)
+    
 #### Unarmed Combat
 
 ## Saving Throws
