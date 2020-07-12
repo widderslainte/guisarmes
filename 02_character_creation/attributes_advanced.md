@@ -20,3 +20,17 @@
 * Courage
 * Base Health Die: rolled for natural healing and other effects.  Drops like usage die with conditions, recovered with rest and resets in civiliation
 * Luck - determines "dodge, stamina type" hit points - can be used for other purpose
+
+## Static and Mutable Attributes
+
+
+### Mutable
+* Alignment
+* Style
+* Hit Points
+* Armor Class
+* Stability
+
+### Other
+* Connections - roll based on Alignment and Culture
+** Chaos - demons, sorcerors, faeries, cults

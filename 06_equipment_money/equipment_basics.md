@@ -12,13 +12,19 @@ _pointless intro paragraph_
 * **Burglar:** 2d6 x 10 silver pieces
 
 #### Common Starting Gear
- 
+
+_If the characters are going to start as prisoners, beggars, or other form of utter destitution, ignore starting money and the items below._ 
+
+
 All characters begin with the following items:
 * One set of practical but weather-worn clothing, including shoes or light leather boots
 * A knife or small hatchet.
 * A small purse with their starting coins.
 * Flint & steel
 * A small sack or sling bag containing a blanket or bedroll, waterskin and messkit.
+* Flint and steel
+* Bedroll
+* 7 days standard rations
 * Plus:
   * If a warrior or justicar: a pewter or leather tankard, and a club or spear
   * If a prophet: a holy symbol of their faith, a book of prayers or devotions, and a set of practical vestments.
