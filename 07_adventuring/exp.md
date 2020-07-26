@@ -40,7 +40,7 @@ daily cycle here?
 The daily cycle is divided into periods of 6 hours (presuming the same 24 hour timeflow as the primeval natural plane)
 
 Periods:
-* Morning 
+* Morning
 * Afternoon
 * Evening
 * Night
@@ -69,7 +69,8 @@ Periods:
 ## Health and Healing
 
 ### Death
- Upon reaching zero hit points, the character collapses and is unstable and barely conscious.  The character in 3 rounds or less, or upon taking further damage (a coup de gras).  The character must immediately make a save versus death (modified by?).  
+
+ Upon reaching zero hit points, the character collapses and is unstable and barely conscious.  The character in 3 rounds or less, or upon taking further damage (a coup de gras).  The character must immediately make a save versus death (modified by?).
 
 ### Healing
 
@@ -101,11 +102,13 @@ Full rest restores 1 HP per character hit die.  Example: a 4th level fighter wou
 | 2   | 500 |
 | 3   | 1000 |
 | 4   | 2000 |
+| 5   | 4000 |
 | 5   | 4000 | 
 | 6   | 8000 |
 | 7   | 16000 |
 | 8   | 32000 |
 | 9   | 64000 |
+| 10  | 128000 |
 | 10  | 128000 | 
 
 ### Training
