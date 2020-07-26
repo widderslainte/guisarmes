@@ -69,6 +69,7 @@ Periods:
 ## Health and Healing
 
 ### Death
+
  Upon reaching zero hit points, the character collapses and is unstable and barely conscious.  The character in 3 rounds or less, or upon taking further damage (a coup de gras).  The character must immediately make a save versus death (modified by?).
 
 ### Healing
@@ -80,12 +81,12 @@ Full rest restores 1 HP per character hit die.  Example: a 4th level fighter wou
 ------------
 
 # Experience
-## Sources
+## Sources 
 
 ### Treasure:
 * 1 silver piece (or equivalent) grants 1 experience point (presuming a silver standard)
 * Treasure must be secured, i.e. taken to home location ("base") or banking establishment and outside the encounter area.  Some classes may have special abilities that impact this (thieves and buried treasure, prophets and shrines).  Jewelry and other apparel gained as treasure may be actively worn for one week to gain the xp value - you don't need to keep that ruby studded codpiece at home!
-* Magic items may grant experience points.  Expendable items grant their experience points upon identification or use.  Other items must be identified or studied for one week to gain their associated experience points. Only a single party member may ever gain exprience points for any given item - a sword can not be passed around to advance multiple characters.
+* Magic items may grant experience points.  Expendable items grant their experience points upon study, identification or use.  Weapons and armor will have basic qualities (bonus to hit, damage, armor, etc) identified through use in actual combat of 3 rounds or more. Other items must be identified or studied for one week to gain their associated experience points. Only a single party member may ever gain exprience points for any given item - a sword can not be passed around to advance multiple characters.
 
 #### Defeating Foes
 * Monsters amd other hostile will provide a standard experience point value based on formulae or static monster listing.  At the referee's discretion they are earned immediately, though at a point of rest or sleep may be more applicable to the style of game.  Foes do not have to be killed or destroyed to gain experiences; surrender, breaking morale, banishment, and similar negation of threat are just as legitimate.
@@ -94,7 +95,7 @@ Full rest restores 1 HP per character hit die.  Example: a 4th level fighter wou
 
 ### Procedure
 
-### Experience Needed
+### Experience Needed 
 | Level | Experience Points |
 | -------|------------------- |
 | 1   | 0 |
@@ -102,11 +103,13 @@ Full rest restores 1 HP per character hit die.  Example: a 4th level fighter wou
 | 3   | 1000 |
 | 4   | 2000 |
 | 5   | 4000 |
+| 5   | 4000 | 
 | 6   | 8000 |
 | 7   | 16000 |
 | 8   | 32000 |
 | 9   | 64000 |
 | 10  | 128000 |
+| 10  | 128000 | 
 
 ### Training
 

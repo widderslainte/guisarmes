@@ -1,0 +1,22 @@
+
+General Adventuring Gear: All characters start play with a backpack, a tinderbox, 5 torches, 1d20gp, and four items rolled on the list below: 
+	1. Crowbar 
+	2. Hammer
+	3. 10 iron spikes
+	4. Sledgehammer 
+	5. 5 days’ rations
+	6. Waterskin 
+	7. 50’ hempen rope
+	8. Bedroll 
+	9. Lantern and 3 flasks of oil 
+	10. Ink, quill and 5 sheets of parchment
+	11. 10 sticks of chalk
+	12. Small sack 
+
+Class-Specific Equipment: 
+	* Clerics get a wooden holy symbol and one healing potion (1d6+1). 
+	* Rogues get thieve’s tools and an extra piece of adventuring gear (player’s choice).
+	* Magic-users get a randomly chosen spell book with two first level spells.
+
+
+

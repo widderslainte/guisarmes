@@ -1,4 +1,4 @@
-# Guisarmes & Golems
+# Guisarmes & Golems, Basic Edition
 
 _working title for an increasingly un-clonish retroclone styled game_
 
@@ -11,12 +11,16 @@ _working title for an increasingly un-clonish retroclone styled game_
 
 [Ancestries](03_ancestries/README.md)
 
-[Classes](04_classes/README.md)
-* [Basic Classes](04_classes/classes_basic.md)
+[Basic Classes](04_classes/classes_basic.md)
 
 [Character Elements](05_character_elements/README.md)
 
 [Equipment & Money](06_equipment_money/README.md)
+* [Basic Equipment](06_equipment_money/equipment_basics.md)
+* [Appendix U: Armor](06_equipment_money/equipment_appendix_u_armor.md)
+* [Appendix U: Weapons](06_equipment_money/equipment_appendix_u_weapons.md)
+* [Appendix U: Magic and Religious Items](06_equipment_money/equipment_appendix_u_magic_religion.md)
+* [Appendix U: Miscellania](06_equipment_money/equipment_appendix_u_miscellania.md)
 
 ### Playing the Game
 
@@ -35,11 +39,6 @@ _working title for an increasingly un-clonish retroclone styled game_
 [Treasure](22_treasure/README.md)
 
 ### Appendices  
-[Monsters](31_monsters/README.md)  
-[Basic Rules](basic_README.md)
+[Monsters](31_monsters/README.md)
 
-
-## Detailed Table of Contents
-
-(forthcoming)
 
