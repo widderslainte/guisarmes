@@ -23,6 +23,7 @@
 | -  Morning Star (2H)            |	  --  |  50  |	    1d10  |             |              |             |
 | -  War Hammer 	 		      |   50  |  20  |   1d6/1d8  |             |              |             |
 | Garotte                         |   --  |   5  |       1d6  |             |              |
+| Hookspear, Chlendi              |   10  |  25  |       1d6  |             |              | 
 | Lance                           |   --  |  30  |      1d10  |             |              | charge from horseback
 | Net                             |    5  |   3  |        --  |             |              |
 | Pick, heavy                     |   --  |  45  |       1d6  |             |              |
