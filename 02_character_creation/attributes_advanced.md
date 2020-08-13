@@ -10,7 +10,7 @@
 * Constitution
 * Charisma
 * Agility
-* Resilience (Courage?)
+* Resilience (Courage? Composure?)
 * Attunement/Faith/Vow ___
 
 ### Secondary
@@ -27,7 +27,7 @@
 ### Mutable
 * Alignment
 * Style
-* Hit Points
+* Hit Points (and Wounds, and arbitrary difference to mark UP harm to hit point threshold instead of confusing current vs maximum hit points)
 * Armor Class
 * Stability
 

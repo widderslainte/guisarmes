@@ -7,7 +7,7 @@
 * Languages (Speak) - Each point counts as knowing one, plus chance to knot bits of another
 * Force - Open Doors
 * Search
-* Sleight of Hand - this is a dumb name - we're not doing magic tricks
+* Legerdemain (_Sleight of Hand_) - this is a dumb name - we're not doing magic tricks
 * Sneak Attack 
 * Bushcraft/Survival
 * Stealth

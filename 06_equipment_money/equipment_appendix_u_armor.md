@@ -1,25 +1,25 @@
 ## Armor
 
-|**Armor**			    | Rural | City | AC	 | Max Move | Availability | Enc (coin) | Enc (slot) | Notes         |
+|**Armor**			        | Rural | City | AC	 | Max Move | Availability | Enc (coin) | Enc (slot) | Notes         |
 |-----------------------|-------|------|-----|----------|--------------|------------|------------|---------------|
-| Breast & Back         |  -    |  75  | 4   | 90'      | Common       | 300        |            |
-| Buff Coat             |  30   |  15  | 1   | 120'     | Common       | 100        |            |
-| Brigandine	        |  -    |  80  | 3	 | 120'     | Common       | 350        |            |
-| Codpiece, mundane     |  -    |   5  | 0   | 120'     | Common       |   0        |            |
-| Hides / Fur    	    |  10   |  15  | 2	 | 90'      | Common       | 200        |            |
-| Lamellar, Steel       |  -	| 125  | 6	 | 90'      | Common       | 300        |            |
-| Leather, Cuir Bouilli |  20   |  20  | 2	 | 120'     | Common       | 120        |            |
-| Leather, Studded 	    |  25	|  25  | 3	 | 90'      | Common       | 200        |            |
-| Maile, Hauberk        |  -	| 100  | 5	 | 90'      | Common       | 300        |            |
-| Maile, Plated	        |  -	| 800  | 7	 | 60'      | Common       | 450        |            |
-| Pitch Jacket          |  3    |   3  | 1   | 120'     | Common       | 150        |            |
-| Shields:			    |       |      |     |          |              |            |            |
-| -- Buckler            |  20   |   8  | +1  | N/A      | Common       |  25        |            | Can hold torch in shield hand          |
-| -- Large	            |  -	|  20  | +2	 | N/A      | Common       | 100        |            |
-| -- Nog Coverage       |  -    | 100  | +1	 | N/A      | Common       | N/A        |            | Includes Standard Nog                  |
-| -- Small	            |  15	|  10  | +1	 | N/A      | Common       |  50        |            | Splintering only reduces damage to 1hp |
-| -- Small wood         |   3   |   5  | +1  | N/A      | Common       |  30        |            | Splintering only reduces damage to 1hp |
-| -- Standard	        |  20	|  15  | +1	 | N/A      | Common       |  80        |            |
+| Breast & Back         |  -    |  75  | 4   | 90'      | Common       | 300        |  1 point   |
+| Buff Coat             |  30   |  15  | 1   | 120'     | Common       | 100        |  1 (item)  |
+| Brigandine	          |  -    |  80  | 3	 | 120'     | Common       | 350        |  1 point   |
+| Codpiece, mundane     |  -    |   5  | 0   | 120'     | Common       |   0        |   --       |
+| Hides / Fur    	      |  10   |  15  | 2	 | 90'      | Common       | 200        |  1 point   |
+| Lamellar, Steel       |  -	  | 125  | 6	 | 90'      | Common       | 300        |  2 points  |
+| Leather, Cuir Bouilli |  20   |  20  | 2	 | 120'     | Common       | 120        |  1 (item)  |
+| Leather, Studded 	    |  25	  |  25  | 3	 | 90'      | Common       | 200        |  1 (item)  |
+| Maile, Hauberk        |  -	  | 100  | 5	 | 90'      | Common       | 300        |  1 point   |
+| Maile, Plated	        |  -	  | 800  | 7	 | 60'      | Common       | 450        |  2 points  |
+| Pitch Jacket          |  3    |   3  | 1   | 120'     | Common       | 150        |  1 (item)  |
+| Shields:			        |       |      |     |          |              |            |            |
+| -- Buckler            |  20   |   8  | +1  | N/A      | Common       |  25        |  1 (item)  | Can hold torch in shield hand          |
+| -- Large	            |  -	  |  20  | +2	 | N/A      | Common       | 100        |  1 (item)  |
+| -- Nog Coverage       |  -    | 100  | +1	 | N/A      | Common       | N/A        |    n/a     | Includes Standard Nog                  |
+| -- Small	            |  15	  |  10  | +1	 | N/A      | Common       |  50        |  1 (item)  | Splintering only reduces damage to 1hp |
+| -- Small wood         |   3   |   5  | +1  | N/A      | Common       |  30        |  1 (item)  | Splintering only reduces damage to 1hp |
+| -- Standard	          |  20	  |  15  | +1	 | N/A      | Common       |  80        |  1 (item)  |
 
 #### Helmets
 
