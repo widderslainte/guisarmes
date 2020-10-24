@@ -28,6 +28,7 @@
 | Hit Points Gained Levels 11+: 3 |
 | Combat Proficiencies Gained: Levels 3,6,9,12,15,18 |
 | Attacks:  L1-5 1/round, L6-10 2/round, L11 & up 3/round |
+| **Obligation:**|  |
 
 With each level, Warriors gain a bonus to one of the following families of weapons:
 * One handed Melee:  +1 damage
@@ -53,6 +54,7 @@ With each level, Warriors gain a bonus to one of the following families of weapo
 | Initial Hit Point Roll: 2d3 (or take 4)|
 | Hit Points Gained Levels 2-10: d4|
 | Hit Points Gained Levels 11+: 1|
+| **Obligation:**|  |
 
 ### Class Abilities:  
 Create Concoctions, Create Potions, Create Scrolls, Cantraps, Enchant Items, Recharge Wands, Rituals, Sage Knowledge, Spell Casting, Spell Preparation, Stronghold Creation: Tower
@@ -75,6 +77,7 @@ Create Concoctions, Create Potions, Create Scrolls, Cantraps, Enchant Items, Rec
 | Initial Hit Point Roll: 2d4 (or take 6) |
 | Hit Points Gained Levels 2-10: d6 |
 | Hit Points Gained Levels 11+: 2 |
+| **Obligation:**|  |
 
 ### Class Abilities
 *  *Skim off the Top:** Members of the underworld can't keep their hands off loot.  Characters of the burglar (and burglar) class automatically get %1 per level of coin and non-precious stones loot collected by the party before any shares or divisions are calculated.  This represents their penchant for being the first with their hands in the sack, lifting of small amounts of coins during sorting, and intentional miscalculations during the actual division of shares ("one for you, two for me"). _Thieves and burglars gain experience points for any of the above skimming activity as they would for any other treasure._
@@ -106,6 +109,7 @@ Create Concoctions, Create Potions, Create Scrolls, Cantraps, Enchant Items, Rec
 | Hit Points Gained Levels 2-10: 2d4 |
 | Hit Points Gained Levels 11+: 2 |
 | Attacks: 1 |
+| **Obligation:**|  |
 
  **Class Abilities:**
  “All Clerics are Priests of their religion. However, not all Priests are Clerics. Clerics are essentially proto-saints at low-levels and actual, living saints, prophets or the equivalent by higher levels. Spell-casting priests (i.e Clerics) are said to possess Grace, as in the "Grace of God". Perhaps one Priest in ten in so blessed.” Function as cleric (maintains holy site and/or tends to community), templar (warrior priest) or prophet (more magic)

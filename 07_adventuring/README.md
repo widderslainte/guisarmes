@@ -1,32 +1,30 @@
 # Rules
 
-Adventuring
-Architecture
-Climbing
-Doors
-Excavations
-
-Recover Treasure
-
-Exploration - per Miseries, Necropraxis
-Foraging & Hunting - Camp, Watches
-Getting Lost
-Hazards 
-* (Attribute Lose, Aging, Damage, Disease, Drugs, Falling, Poison, Starvation)
-Healing
-Languages
-Light & Vision
-Mapping
-Movement & Encumbrance
-Searching
-Sleight of Hand
-Stealth
-Swimming
-Time
-Tinkering
-Traps
+* Adventuring
+* Architecture
+* Climbing
+* Doors
+* Excavations
+* Recovering Treasure
+* Exploration - per Miseries, Necropraxis
+* Foraging & Hunting - Camp, Watches
+* Getting Lost
+* Hazards 
+    * (Attribute Lose, Aging, Damage, Disease, Drugs, Falling, Poison, Starvation)
+* Healing
+* Languages
+* Light & Vision
+* Mapping
+* Movement & Encumbrance
+* Searching
+* (Sleight of Hand)
+* Stealth
+* Swimming
+* Time
+* Tinkering
+* Traps
  
-Retainers, Property and Finance
+## Retainers, Property and Finance
 * Hirelings
     * Advanced Hirings
     * Hiring Retainers

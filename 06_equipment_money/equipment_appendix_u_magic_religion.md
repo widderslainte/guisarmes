@@ -1,46 +1,48 @@
 ### Religious Items
 
-| **Item**                | **City** | **Rural** |
-|-------------------------|----------|-----------|
-| Bell, brass             |   5sp    |  10sp     |
-| Bird, Sacrificial       |  10sp    |   5sp     |
-| Bird, Divinatory        |  25sp    |  20sp     |
-| Charm, minor            |  25sp    |  50sp     |
-| Ghostpowder             | 125sp    | 100sp*    |
-| Holy symbol, silver     |  25sp    |  50sp     |
-| Holy symbol, steel      |  10sp    |  10sp     |
-| Holy symbol, wood       |   1sp    |   1cp     |
-| Holy water, vial        |  25sp    |  25sp     |
-| Incense, 12 pieces      |   3sp    |   5sp     |
-| Prayer Beads            |   7sp    |  10sp     |
-| Prayercloth, Clan       |  50sp    |  50sp     |
-| Prayercloth, Personal   |   5sp    |   5sp     |
-| Relic, Questionable     | 100sp    |  --       |
-| Spiritmask, Chlendi     |  40sp    |  50sp*    |
-| Talisman, Mindat, Basic | 100sp    | 250sp     |
-| Travel Idols, clay      |  10sp    |  15sp     | 
-| Travel Idols, gold      | 300sp    |  --       | 
+| **Item**                | **City** | **Rural** | Enc (items) |
+|-------------------------|----------|-----------|----------|
+| Bell, brass             |   5sp    |  10sp     |  --
+| Bird, Sacrificial       |  10sp    |   5sp     |   1
+| Bird, Divinatory        |  25sp    |  20sp     |   1
+| Charm, minor            |  25sp    |  50sp     |  --
+| Ghostpowder             | 125sp    | 100sp*    |  --
+| Holy symbol, silver     |  25sp    |  50sp     |   1
+| Holy symbol, steel      |  10sp    |  10sp     |   1 
+| Holy symbol, wood       |   1sp    |   1cp     |   1
+| Holy water, vial        |  25sp    |  25sp     |  #3
+| Holy Water of Utan      |  10sp    |  25sp     |   1
+| Incense, 12 pieces      |   3sp    |   5sp     |   1
+| Prayer Beads            |   7sp    |  10sp     |  --
+| Prayercloth, Clan       |  50sp    |  50sp     |  --
+| Prayercloth, Personal   |   5sp    |   5sp     |  --
+| Relic, Questionable     | 100sp    |  --       |   1
+| Spiritmask, Chlendi     |  40sp    |  50sp*    |   1
+| Talisman, Mindat, Basic | 100sp    | 250sp     |  --
+| Travel Idols, clay      |  10sp    |  15sp     |   1
+| Travel Idols, gold      | 300sp    |  --       |   1
 
 
 ### Herbs
 
-| **Item**                |  **City**  | **Rural** |
-|-------------------------|------------|-----------|
-| Belladona               |    1sp     |   5cp
-| Garlic                  |    3cp     |   1cp
-| Goldenrod               |   10sp     |   5cp
-| Smoking Herbs, Normal   |    5cp     |   1sp
-| Smoking Tobacco         |    3cp     |   1cp
-| Wolvesbane              |   10sp     |   1sp
-| Cinnamon (etc,1lb)      |   10sp     |  20sp
-| Saffron (1lb)	     	  |   50sp     |  --
-| Vial of mithridate      | 1000sp     |  -- 
-| Healing poultice        | varies     | varies     
+| **Item**                |  **City**  | **Rural** | Enc (items) |
+|-------------------------|------------|-----------|----------|
+| Belladona               |    1sp     |   5cp     |
+| Garlic                  |    3cp     |   1cp     |
+| Goldenrod               |   10sp     |   5cp     |
+| Smoking Herbs, Normal   |    5cp     |   1sp     |
+| Smoking Tobacco         |    3cp     |   1cp     |
+| Wolvesbane              |   10sp     |   1sp     |
+| Cinnamon (etc,1lb)      |   10sp     |  20sp     |   1
+| Saffron (1lb)	     	  |   50sp     |  --       |   1
+| Vial of mithridate      | 1000sp     |  --       |  #3
+| Healing poultice        | varies     | varies    |   1
 
 
 ### Temple Services & Magic
 
 * Rituals
+    * Rite of Mystical Consumption 
 * Scrolls
 * Spells, Cast
 

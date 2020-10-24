@@ -178,6 +178,7 @@ Create Concoctions, Create Potions, Create Scrolls, Cantraps, Enchant Items, Rec
 | Hit Points Gained Levels 11+: 2 |
 | Combat Proficiencies Gained: Levels 3, 6, 9, 12, 15, 18 |
 | Attacks:  L1-8 1/round, L9 & up 2/round |
+| **Obligation:**|  |
 
 ### Class Abilities
 *  Skim off the Top
@@ -218,6 +219,7 @@ Create Concoctions, Create Potions, Create Scrolls, Cantraps, Enchant Items, Rec
 | Hit Points Gained Levels 11+: 3 |
 | Combat Proficiencies Gained: Levels 3, 6, 9, 12, 15, 18 |
 | Attacks:  L1-5 1/round, L6-10 2/round, L11 & up 3/round |
+| **Obligation:**|  |
 
 ### Class Abilities:
 
