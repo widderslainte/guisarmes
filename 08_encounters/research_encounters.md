@@ -1,0 +1,1 @@
+* Give each weapon, monster attack type, and spell a "speed" score reflecting the relative time to execute when movement, reach/length, etc are not a factor.  

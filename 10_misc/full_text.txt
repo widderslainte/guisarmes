@@ -106,6 +106,7 @@ Scholar/Worker/Warrior/Outsider
  Hit Points Gained Levels 11+: 3
  Combat Proficiencies Gained: Levels 3,6,9,12,15,18
  Attacks:  L1-5 1/round, L6-10 2/round, L11 & up 3/round
+ | **Obligation:**|  |
 
  With each level, Warriors gain a bonus to one of the following families of weapons:
  One handed Melee:  +1 damage
@@ -113,6 +114,7 @@ Scholar/Worker/Warrior/Outsider
  Two Handed Weapons (includes all spears): +1 damage
  Bows (excluding crossbows): +1 to hit
  Firearms: reduced risk of misfire or reload time
+
 
 
  
@@ -135,6 +137,7 @@ Scholar/Worker/Warrior/Outsider
  Hit Points Gained Levels 11+: 1
  Combat Proficiencies Gained: Levels 5, 10, 15, 20
  Attacks: 1
+ | **Obligation:**|  |
 
  Class Abilities:  Create Concoctions, Create Potions, Create Scrolls, Cantraps, Enchant Items, Recharge Wands, Rituals, Sage Knowledge, Spell Casting, Spell Preparation, Stronghold Creation: Tower
 
@@ -162,6 +165,7 @@ Scholar/Worker/Warrior/Outsider
  Hit Points Gained Levels 11+: 2
  Combat Proficiencies Gained: Levels 3, 6, 9, 12, 15, 18
  Attacks:  L1-8 1/round, L9 & up 2/round
+ | **Obligation:**|  |
 
  Class Abilities:
  Skim off the Top
@@ -201,6 +205,7 @@ Scholar/Worker/Warrior/Outsider
  Hit Points Gained Levels 11+: 3
  Combat Proficiencies Gained: Levels 3, 6, 9, 12, 15, 18
  Attacks:  L1-5 1/round, L6-10 2/round, L11 & up 3/round
+ | **Obligation:**|  |
 
  Class Abilities:
 
@@ -227,6 +232,7 @@ Scholar/Worker/Warrior/Outsider
  Hit Points Gained Levels 11+: 2
  Combat Proficiencies Gained: Levels 4, 8, 12, 16, 20
  Attacks: 1
+| **Obligation:**|  |
 
  Class Abilities:
  “All Clerics are Priests of their religion. However, not all Priests are Clerics. Clerics are essentially proto-saints at low-levels and actual, living saints, prophets or the equivalent by higher levels. Spell-casting priests (i.e Clerics) are said to possess Grace, as in the "Grace of God". Perhaps one Priest in ten in so blessed.” Function as cleric (maintains holy site and/or tends to community), templar (warrior priest) or prophet (more magic)

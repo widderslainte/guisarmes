@@ -15,7 +15,8 @@
 | **Attacks, Initial:** | 1 |
 | **Attacks, Levels 6-10:** | 2 |
 | **Skill Points, Initial:**| 1 |
-| **Skill Points, Levels 2-10:**| 1 |
+| **Skill Points, Levels 2-10:**| 1 |  
+| **Obligation:**|  |
 
 ### Class Abilities:
 * **Destroyers of Men** 
@@ -49,6 +50,7 @@
 | **Attacks, Levels 6-10:** | 1 |
 | **Skill Points, Initial:**| 2 |
 | **Skill Points, Levels 2-10:**| 1 |
+| **Obligation:**|  |
 
 
 ### Class Abilities:
@@ -63,8 +65,6 @@
   * Cantraps (Individual)
   * Hear Noise
   * Languages
-
-
 
 
 ## Burglar 
@@ -83,6 +83,7 @@
 | **Attacks, Levels 6-10:** | 1 |
 | **Skill Points, Initial:**| 4 |
 | **Skill Points, Levels 2-10:**| 2 |
+| **Obligation:**|  |
 
 ### Class Abilities:
 * **Skills:**
@@ -118,6 +119,7 @@
 | **Attacks, Levels 6-10:** | 1 |
 | **Skill Points, Initial:**| 2 |
 | **Skill Points, Levels 2-10:**| 1 |
+| **Obligation:**|  |
 
 ### Class Abilities:
 * **Followers**

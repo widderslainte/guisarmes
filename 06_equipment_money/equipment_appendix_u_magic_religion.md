@@ -11,6 +11,7 @@
 | Holy symbol, steel      |  10sp    |  10sp     |   1 
 | Holy symbol, wood       |   1sp    |   1cp     |   1
 | Holy water, vial        |  25sp    |  25sp     |  #3
+| Holy Water of Utan      |  10sp    |  25sp     |   1
 | Incense, 12 pieces      |   3sp    |   5sp     |   1
 | Prayer Beads            |   7sp    |  10sp     |  --
 | Prayercloth, Clan       |  50sp    |  50sp     |  --
@@ -41,6 +42,7 @@
 ### Temple Services & Magic
 
 * Rituals
+    * Rite of Mystical Consumption 
 * Scrolls
 * Spells, Cast
 

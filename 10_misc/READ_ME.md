@@ -124,6 +124,7 @@
 | Hit Points Gained Levels 2-10: 2d6 |
 | Hit Points Gained Levels 11+: 3 |
 | Attacks:  L1-5 1/round, L6-10 2/round, L11 & up 3/round |
+| **Obligation:**|  |
 
 ### Class Abilities:
 

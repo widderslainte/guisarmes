@@ -16,3 +16,8 @@
 ## Unusual Skills
 * Literacy  - ability to read and wrie
 * Swimming - you don't know how to swim
+
+
+Not stealth, SKULK as skill name.
+
+* http://bxblackrazor.blogspot.com/2020/09/developing-blood-bowl-players.html - includes some attributes
