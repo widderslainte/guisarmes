@@ -60,3 +60,7 @@
 * Sanity
 * Disease
 * Fear - See Coins & Scrolls
+
+
+# Reference
+https://bdsmrpg.blogspot.com/2018/05/saving-throws-as-d6-skills.html

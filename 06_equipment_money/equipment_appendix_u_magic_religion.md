@@ -39,6 +39,12 @@
 | Healing poultice        | varies     | varies    |   1
 
 
+**Talisman, Mindat**: Creation of Talismans is an essential element of Mindat magical traditions.  Talismans are message in quality (likelihood of effect) and efficacy (power of effect). Talismans protect a single specific spell or effect, determined at creation time.
+
+  Basic: Allows +2 to saving throws versus the effort
+  Less: Allows +4 to saving throws versus the effort
+  Supreme:  Allows a reroll of a failed saving throw versus the effort
+
 ### Temple Services & Magic
 
 * Rituals
