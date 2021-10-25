@@ -26,3 +26,5 @@ As a counter point, I no longer view the ability scores as either mental or phys
 * Constitution combines physical hardiness and the sheer will to endure.
 
 Not sure the distinction is that important, but it frees you up to associate a skills or powers to more than just one ability score, grants justification to adjust Saving Throw, etc.
+
+* Fudge - maybe no attributes - no strength, just skills
