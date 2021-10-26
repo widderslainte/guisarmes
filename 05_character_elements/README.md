@@ -1,6 +1,6 @@
- ## Features & Other Details 
+## Features & Other Details 
 
- ### Defenses
+### Defenses
 
  * **Armor Class**: Total of 10 + Dexterity Modifier + Armor Bonuses (or other protective gear).  In Advanced Guisarmes and Golems, Dexterity does not modify Armor Class.
  * **Saving Throws**: _"The term saving throw is common enough, coming to us from miniature wargames and D&D. It represents the chance for the figure concerned to avoid (or at least partially avoid) the cruel results of fate."_
@@ -10,14 +10,18 @@
    * Breath Weapon
    * Magic (All other forms)
 
- ### Alignment
+### Alignment
  
  * Chaotic
  * Lawful
  * Neutral
  * Unaligned
  
- ### Skills
+### Languages
+
+* Reference Language skill belows, as well as Magician and Prophet writings.
+
+### Skills
  
  * Chirurgery
  * Camp Skills

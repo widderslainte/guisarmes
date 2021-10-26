@@ -5,6 +5,11 @@
 * Climbing
 * Doors
 * Excavations
+* Expeditions
+    * Make Camp: 
+        * Automatic under normal circumstances
+        * Roll under difficult circumstances (snow storm, heavy rain)
+        * Roll for critical success - find resources, increase healing, defensive elements, etc
 * Recovering Treasure
 * Exploration - per Miseries, Necropraxis
 * Foraging & Hunting - Camp, Watches

@@ -245,7 +245,7 @@ _See charts and descriptions below_
 
 | **Item**                | **City** | **Rural** | Enc (items) |
 |-------------------------|----------|-----------|-------------|
-| Talisman, Mindat, Basic |          |           |  --
+| Talisman, Mindat, Basic | 100sp    | 250sp     |  --
 | Prayer Beads            |          |           |  --
 | Incense, 12 pieces      |          |           |   1  
 | *Holy symbol, silver*   | 25sp     | 50sp      |   1
@@ -258,6 +258,13 @@ _See charts and descriptions below_
 | Ghostpowder             |          |           |  --
 | Spiritmask, Chlendi     |          |           |   1
 | Bell, brass             |          |           |  --
+
+**Talisman, Mindat**: Creation of Talismans is an essential element of Mindat magical traditions.  Talismans are message in quality (likelihood of effect) and efficacy (power of effect). Talismans protect a single specific spell or effect, determined at creation time.
+
+  Basic: Allows +2 to saving throws versus the effort
+  Less: Allows +4 to saving throws versus the effort
+  Supreme:  Allows a reroll of a failed saving throw versus the effort
+
 
 ### Herbs
 

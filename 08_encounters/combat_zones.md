@@ -15,3 +15,7 @@ Zone Sizes
   * Area bounds
   * Size of each group
   * Generally 5 square feet per man-sized creature, minimum of 10 square feet per zone.
+
+
+* Rank per Zone
+* Flank Rank
