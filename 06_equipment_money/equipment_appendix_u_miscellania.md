@@ -1,6 +1,6 @@
-## General Equipment
+# General Equipment
 
-### Miscellaneous
+## Miscellaneous
 
 | **Item**                | **City** | **Rural** |
 |-------------------------|----------|-----------|
@@ -20,7 +20,7 @@
 | Hammer                  | 3sp      | 2sp       |
 | *Ink and Quill*         | 1cp      | 5cp       |
 | Instrument, musical     | > 1sp    | > 5sp     |
-| _Ladder, 10'_           | 10sp     | 7sp       |
+| *Ladder, 10'*           | 10sp     | 7sp       |
 | Lantern                 | 15sp     | 10sp      |
 | Lard                    | 1cp      | 1cp       |
 | *Mirror, silver*        | 30sp     | --        |
@@ -31,13 +31,13 @@
 | *Pipe*                  | 1sp      | 5cp       |
 | Pole, 10'               | 1sp      | 5cp       |
 | Rope, 50'               | 3sp      | 3sp       |
-| Saddle and Tack         |	25sp     | 10sp      |
+| Saddle and Tack         | 25sp     | 10sp      |
 | Scroll case, leather    | 1sp      | 3sp       |
 | Scroll case, bone       | 5sp      | 15sp      |
 | Shovel                  | 3sp      | 3sp       |
 | Spikes, irons (10)      | 3sp      | 5sp       |
 | Spyglass                | 250sp    | --        |
-| _Tent_                  | 10sp     | 20sp      |
+| *Tent*                  | 10sp     | 20sp      |
 | Thieve's tools          | 50sp     | --        |
 | Tinderbox               | 1sp      | 5sp       |
 | Torches (3)             | 3cp      | 3cp       |
@@ -46,28 +46,28 @@
 
 ### Clothing
 
-| **Item**	     		      | City | Rural | Encumbrance | Availability | Special |
+| **Item**              | City | Rural | Encumbrance | Availability | Special |
 | ----------------------------|------|-------|-------------|--------------|---------|
-| Belt 		                  |    1 |     1 |             |              |         |
-| Boots soft, low		      |    6 |	     |             |              |         | 
-| Boots soft, high		      |    3 |	     |             |              |         |
-| Cloak, hooded		          |	   1 |       |             |              |         |
-| Cloak, heavy, winter	      |   15 |       |             |              |         |
-| Cloth, cotton, bolt		  |	  25 |       |             |              |         |
-| Cloth, silk, bolt			  |	 100 |       |             |              |         |
-| Cloth, wool, bolt			  |	  10 |       |             |              |         |
-| Gloves				      |    4 |       |             |              |         |
+| Belt                     |    1 |     1 |             |              |         |
+| Boots soft, low        |    6 |      |             |              |         |
+| Boots soft, high        |    3 |      |             |              |         |
+| Cloak, hooded            |    1 |       |             |              |         |
+| Cloak, heavy, winter       |   15 |       |             |              |         |
+| Cloth, cotton, bolt    |   25 |       |             |              |         |
+| Cloth, silk, bolt     |  100 |       |             |              |         |
+| Cloth, wool, bolt     |   10 |       |             |              |         |
+| Gloves          |    4 |       |             |              |         |
 | Hat, Mindat Academic        |      |       |             |              |         |
 | Hat, Cavalier               |      |       |             |              |         |
 | Hat, Chaperon               |      |       |             |              |         |
 | Hat, Fur                    |      |       |             |              |         |
 | Hat, Phrygian               |      |       |             |              |         |
 | Hat, Wide brimmed           |      |       |             |              |         |
-| Robe (vestment or academic) |	   6 |	   6 |             |              |         |
-| Shoes,leather	              |    1 |     1 |             |              |         |
-| Turban, Chlendi             |    1 |	   1 |             |              |         |
-| Wig, cheap                  |	   5 |	   5 |             |              |         |
-| Wig, fine quality           |	  50 |	  50 |             |              |         |
+| Robe (vestment or academic) |    6 |    6 |             |              |         |
+| Shoes,leather               |    1 |     1 |             |              |         |
+| Turban, Chlendi             |    1 |    1 |             |              |         |
+| Wig, cheap                  |    5 |    5 |             |              |         |
+| Wig, fine quality           |   50 |   50 |             |              |         |
 | *Clothing, extravagant*     | 20+sp| 20+sp |             |              |         |
 | *Clothing, normal*          | 5sp  |   2sp |             |              |         |
 | *Clothing, poor*            | 1sp  |   5cp |             |              |         |
@@ -87,7 +87,7 @@
 | Sack, small |   2       |       1  |           200    |          1       |       BX  |
 | Saddlebags  |   5       |       5  |           300    |          2       |       BX  |
 
-  * See also, AD&D Companion v1.3
+* See also, AD&D Companion v1.3
 
 ### Provisions
 
@@ -103,13 +103,13 @@
 
 | **Item**       | **Rural** | **City** |
 |----------------|-----------|----------|
-| Dog (hunting)	 |     3	   |   3      |
-| Dog (war)		   |	  75	   |  50      |
+| Dog (hunting)  |     3    |   3      |
+| Dog (war)     |   75    |  50      |
 | Donkey         |    15     |  15      |
 | Horses         |           |          |
-|-- Draft        |	  75	   | 100      |
-|-- Heavy War    |	  --     | 700  	  |
-|-- Light War	   |    --     | 300      |
+|-- Draft        |   75    | 100      |
+|-- Heavy War    |   --     | 700     |
+|-- Light War    |    --     | 300      |
 |-- Riding       |   100     | 100      |
 | Mule           |    25     |  50      |
 | Pony           |    50     |  75      |

@@ -1,12 +1,13 @@
-# unsorted
+# Unsorted Items
 
 * See Hackmaster
-- caltrops
-- nogs
-- nogshields
-- nog cartography (hirelings)
-- pulley (and other simple tools)
-- 
+* caltrops
+* nogs
+* nogshields
+* nog cartography (hirelings)
+* pulley (and other simple tools)
+
+## Armor
 
 | Armor and Protective Items | Cost | AC |
 | ---------------------------|------|----|
@@ -19,7 +20,8 @@
 * blue heron cloak - long feathered, waterproof
 * flamingo golem tent
 
-Table GM-8:Clothing
+## Clothing
+
 Attire Cost Enc Availability
 Rags 1 p 5 Abundant
 Poor 10 s 10 Abundant
@@ -162,7 +164,6 @@ costs 200 gp, etc.)
 
 A travelling spell book costs 500 gold pieces for materials. The cost of each spell contained within such a book is the same as the cost for entering a spell in a standard book. All travelling spell books must be fabricated by the magic-user, or otherwise discovered as treasure by the magic-user or his or her associates. A player character cannot automatically possess a travelling spell book at the beginning of his or her career.
 
-
 ##### Physical aspects of standard books
 A standard spell book is approximately 16 inches in height, 12 inches wide, and 6 inches thick. (The DM has leeway to reduce or enlarge this general size, although nothing smaller than 12×12×6 inches or larger than 18×12×9 inches is recommended.) The weight of a standard book of median size is 150 gold pieces (adjusted upward or downward for
 varying sizes). The encumbrance value of such a book is equal to three times its weight (450 gp or thereabouts), although it is correct to assume that a volume will fit within an otherwise empty backpack or large sack.
@@ -175,6 +176,3 @@ A travelling spell book is approximately 12 inches tall, 6 inches wide, and 1 in
 The cover of a travelling spell book is strong, supple leather, such as that from a giant cobra. The hand-sewn leaves of parchment are carefully secured to a fine leather backing and glued to the spine. The whole is further secured by front and back pieces of vellum. A small lock or leather ties are typically used to secure the whole. Pages are very thin and fragile, so great care must be taken to protect the book when it is in use.
 
 Notwithstanding any special protections placed thereon, a travelling spell book has a saving throw equal to that of “leather or book,” with no bonuses (as a standard book has) against certain forms of attack.
-
-
-

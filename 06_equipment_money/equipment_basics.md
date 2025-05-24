@@ -2,9 +2,9 @@
 
 _pointless intro paragraph_
 
-### Starting money and trappings
+## Starting money and trappings
 
-#### Starting Money
+### Starting Money
 
 * **Prophet:** 2d6 x 10 silver pieces
 * **Warrior, Justicar:** 3d4 x 10 silver pieces
@@ -13,10 +13,10 @@ _pointless intro paragraph_
 
 #### Common Starting Gear
 
-_If the characters are going to start as prisoners, beggars, or other form of utter destitution, ignore starting money and the items below._ 
-
+_If the characters are going to start as prisoners, beggars, or other form of utter destitution, ignore starting money and the items below._
 
 All characters begin with the following items:
+
 * One set of practical but weather-worn clothing, including shoes or light leather boots
 * A knife or small hatchet.
 * A small purse with their starting coins.
@@ -35,14 +35,13 @@ _Beginning Spells_
 _Prophet: All 1st level clerics begin with a prayer book (or set of runestones of other thematic equivalent) containing the steps to pray for all the 1st level clerical spells._
 _Magician: All 1st level wizards begin with a standard spellbook containing Read Magic, and three other first level spells of their choice._
 
-
 ### Coins and Currency
 
 _(vs credit, paper, barter)_
 
 #### Traditional Exchange Value
 
-| **Coinage**		    | Equivalence      |
+| **Coinage**      | Equivalence      |
 | ------------------|------------------|
 |  1 silver pieces  | 10 copper pieces |
 | 10 silver pieces  | 1 gold piece     |
@@ -55,7 +54,7 @@ _common examples compared to standard values above_
 
 #### Standard of Living
 
-| Standard of Living |	Monthly Cost | Common Profession | Benefits | Risks  |
+| Standard of Living | Monthly Cost | Common Profession | Benefits | Risks  |
 | -------------------|---------------|-------------------|----------|--------|
 | Street             |               |                   |          |        |
 | Destitute          |               |                   |          |        |
@@ -63,7 +62,6 @@ _common examples compared to standard values above_
 | Affluent           |               |                   |          |        |
 | Oppulent           |               |                   |          |        |
 | Nobility           |               |                   |          |        |
-
 
 ### General Notes
 
@@ -74,7 +72,7 @@ _pointless intro paragraph_
 Loans = 20% interest/month  
 Gem/Jewelry Sale = 80% of actual price  
 Money changing = 3% fee  
-Savings = 0% interest 
+Savings = 0% interest
 
 #### Looting and resale
 
@@ -86,36 +84,34 @@ _by market, region, rarity_
 
 ## Weapons and Armor
 
-_See charts and descriptions below_
+See charts and descriptions below
 
 ### Armor
 
-|**Armor**			        | Rural | City | AC	 | Max Move | Availability | Enc (coin) | Enc (slot) | Notes         |
+|**Armor**           | Rural | City | AC  | Max Move | Availability | Enc (coin) | Enc (slot) | Notes         |
 |-----------------------|-------|------|-----|----------|--------------|------------|------------|---------------|
 | Breast & Back         |  -    |  75  | 4   | 90'      | Common       | 300        |  1 point   |
 | Buff Coat             |  30   |  15  | 1   | 120'     | Common       | 100        |  1 (item)  |
-| Brigandine	          |  -    |  80  | 3	 | 120'     | Common       | 350        |  1 (item)  |
+| Brigandine           |  -    |  80  | 3  | 120'     | Common       | 350        |  1 (item)  |
 | Codpiece, mundane     |  -    |   5  | 0   | 120'     | Common       |   0        |    --      |
-| Hides / Fur    	      |  10   |  15  | 1	 | 90'      | Common       | 200        |  1 point   |
-| Lamellar, Steel       |  -	  | 125  | 6	 | 90'      | Common       | 300        |  2 points  |
-| Leather, Cuir Bouilli |  20   |  20  | 2	 | 120'     | Common       | 120        |  1 (item)  |
-| Leather, Studded 	    |  25	  |  25  | 3	 | 90'      | Common       | 200        |  1 (item)  |
-| Maile, Hauberk        |  -	  | 100  | 5	 | 90'      | Common       | 300        |  1 point   |
-| Maile, Plated	        |  -	  | 800  | 7	 | 60'      | Common       | 450        |  2 points  |
+| Hides / Fur           |  10   |  15  | 1  | 90'      | Common       | 200        |  1 point   |
+| Lamellar, Steel       |  -   | 125  | 6  | 90'      | Common       | 300        |  2 points  |
+| Leather, Cuir Bouilli |  20   |  20  | 2  | 120'     | Common       | 120        |  1 (item)  |
+| Leather, Studded      |  25   |  25  | 3  | 90'      | Common       | 200        |  1 (item)  |
+| Maile, Hauberk        |  -   | 100  | 5  | 90'      | Common       | 300        |  1 point   |
+| Maile, Plated         |  -   | 800  | 7  | 60'      | Common       | 450        |  2 points  |
 | Pitch Jacket          |  3    |   3  | 1   | 120'     | Common       | 150        |            |
-| Shields:			        |       |      |     |          |              |            |  1 (item)  |
+| Shields:           |       |      |     |          |              |            |  1 (item)  |
 | -- Buckler            |  20   |   8  | +1  | N/A      | Common       |  25        |  1 (item)  | Can hold torch in shield hand          |
-| -- Large	            |  -	  |  20  | +2	 | N/A      | Common       | 100        |  1 (item)  |
-| -- Nog Coverage       |  -    | 100  | +1	 | N/A      | Common       | N/A        |            | Includes Standard Nog                  |
-| -- Small	            |  15	  |  10  | +1	 | N/A      | Common       |  50        |  1 (item)  | Splintering only reduces damage to 1hp |
+| -- Large             |  -   |  20  | +2  | N/A      | Common       | 100        |  1 (item)  |
+| -- Nog Coverage       |  -    | 100  | +1  | N/A      | Common       | N/A        |            | Includes Standard Nog                  |
+| -- Small             |  15   |  10  | +1  | N/A      | Common       |  50        |  1 (item)  | Splintering only reduces damage to 1hp |
 | -- Small wood         |   3   |   5  | +1  | N/A      | Common       |  30        |  1 (item)  | Splintering only reduces damage to 1hp |
-| -- Standard	          |  20	  |  15  | +1	 | N/A      | Common       |  80        |  1 (item)  |
-
-    
+| -- Standard           |  20   |  15  | +1  | N/A      | Common       |  80        |  1 (item)  |
 
 #### Helmets
 
-|**Helmets**			       | Rural | City | AC  | Availability | Encumbrance  | Enc (coin)   | Enc (slot) | Notes      |
+|**Helmets**          | Rural | City | AC  | Availability | Encumbrance  | Enc (coin)   | Enc (slot) | Notes      |
 |------------------------|-------|------|-----|--------------|--------------|--------------|------------|------------|
 | Armored Mask, Steel    |    -- |   20 |     |              |              |              |            | +1 Save    |
 | Helmet, Kettle         |    20 |   10 |  +1 |              |              |              |            | +1 Save    |
@@ -123,27 +119,26 @@ _See charts and descriptions below_
 | Helmet, Sallet         |    25 |   10 |  +1 |              |              |              |            | +2 Save    |
 | Skullcap, Metal        |     5 |   10 |   - |              |              |              |            | +1 Save    |
 
-
 ### Weapons
 
 #### Melee
 
-|**Weapon**		                  | Rural | City | **Damage** | Encumbrance | Availability | Special     |
+|**Weapon**                    | Rural | City | **Damage** | Encumbrance | Availability | Special     |
 | ------------------------------|-------|------|------------|-------------|--------------|-------------|
-|Axes:			                    |       |      |            |             |              |             |
-| -  War Axe		                |   50  |   30 |   1d6/1d8  |      1      |              |             |
-| -  Great Axe (2H)             |   --  |   40 |	    1d10  |  Oversized  |              |             |
-| -  Hand Axe  		         	    |    8  |    8 |	     1d6  |      1      |              |             |
+|Axes:                       |       |      |            |             |              |             |
+| -  War Axe                  |   50  |   30 |   1d6/1d8  |      1      |              |             |
+| -  Great Axe (2H)             |   --  |   40 |     1d10  |  Oversized  |              |             |
+| -  Hand Axe                  |    8  |    8 |      1d6  |      1      |              |             |
 | Cestus, Knuckledusters, Hook  |   --  |   10 |       1d3  |     --      |              |             |
 | Dagger                        |   10  |   10 |       1d4  |     #2      |              |             |
 | -  Main Gauche                |       |   12 |       1d4  |     #2      |              |             |
-| -  Silver Dagger		          |   	  |	  30 |       1d4  |     #2      |              |             |
-| Flails, Hammers, and Maces:	  |       |      |            |             |              |             |
-| -  Club 	      		          |    5  |   5  |	     1d4  |      1      |              |             |
-| -  Flail, footman's	          |   40  |  20  |   1d6/1d8  |      1      |              |             |
+| -  Silver Dagger            |      |   30 |       1d4  |     #2      |              |             |
+| Flails, Hammers, and Maces:   |       |      |            |             |              |             |
+| -  Club                    |    5  |   5  |      1d4  |      1      |              |             |
+| -  Flail, footman's           |   40  |  20  |   1d6/1d8  |      1      |              |             |
 | -  Mace, footman's            |   35  |  20  |   1d6/1d8  |      1      |              |             |
-| -  Morning Star (2H)          |	  --  |  50  |	    1d10  |  Oversized  |              |             |
-| -  War Hammer 	 		          |   50  |  20  |   1d6/1d8  |      1      |              |             |
+| -  Morning Star (2H)          |   --  |  50  |     1d10  |  Oversized  |              |             |
+| -  War Hammer               |   50  |  20  |   1d6/1d8  |      1      |              |             |
 | Garotte                       |   --  |   5  |       1d6  |     --      |              |
 | Lance                         |   --  |  30  |      1d10  |  Oversized  |              | charge from horseback
 | Net                           |    5  |   3  |        --  |      1      |              |
@@ -168,14 +163,14 @@ _See charts and descriptions below_
 
 #### Ranged
 
-|**Weapon**		                  | Rural | City | **Damage** | Encumbrance | Availability | Special     |
+|**Weapon**                    | Rural | City | **Damage** | Encumbrance | Availability | Special     |
 | ------------------------------|-------|------|------------|-------------|--------------|-------------|
-| Arbalest		                  |       |  60  |       1d6  |   Oversized |              |             |
+| Arbalest                    |       |  60  |       1d6  |   Oversized |              |             |
 | Blowgun                       |    5  |   5  |       1d2  |   Oversized |              |
 | Bow, long                     |   50  |  45  |       1d6  |   Oversized |              |
 | Bow, short                    |   25  |  25  |       1d6  |      1      |              |
-| - Quiver with 12 Arrows       |  	 5  |   5  |       --   |    #20      |              |             |
-| - 1 Silver-Tipped Arrow       | 	    |   5  |       --   |    #20      |              |             |
+| - Quiver with 12 Arrows       |    5  |   5  |       --   |    #20      |              |             |
+| - 1 Silver-Tipped Arrow       |      |   5  |       --   |    #20      |              |             |
 | Crossbow, heavy               |   --  |  40  |       1d6  |   Oversized |              |
 | Crossbow, light               |   --  |  30  |     1d4+1  |     1       |              |
 | --Bolt, crossbow (12)         |    8  |   5  |       --   |    #20      |              |
@@ -184,15 +179,13 @@ _See charts and descriptions below_
 | - Sling Stone                 |    0  |   0  |       1d3  |    #20      |              |
 | - Sling Bullet (12)           |    3  |   2  |     1d3+1  |    #20      |              |
 
-
 #### Firearms
 
-|**Weapon**		                  | Rural | City | **Damage** | Encumbrance | Availability | Special |
+|**Weapon**                    | Rural | City | **Damage** | Encumbrance | Availability | Special |
 | ------------------------------|-------|------|------------|-------------|--------------|---------|
 | Pistol                        | --    | 35   |       1d8  |      1      |              |
 | Arquebus                      | --    | 50   |       1d8  |   Oversized |              |
 | Musket, Matchlock             | --    | 65   |       1d8  |   Oversized |              |
-
 
 ## General Equipment
 
@@ -204,9 +197,9 @@ _See charts and descriptions below_
 | Block & tackle          | 2sp      | 3sp       | Oversized
 | Book, spell (blank)     | 100sp    | --        |   1
 | Caltrops(6)             | 3sp      | --        |   1
-| *Candle*                | 1cp      | 1cp       |   #6
+| _Candle_                | 1cp      | 1cp       |   #6
 | Chain, per foot         | 1sp      | 2sp       |   #2
-| *Chalk*                 | 1cp      | 1cp       |   --
+| _Chalk_                 | 1cp      | 1cp       |   --
 | Cooking pots            | 1sp      | 5cp       |   1
 | Crampons                | 5sp      | 5sp       |   1
 | Crowbar                 | 2sp      | 2sp       |   1
@@ -214,20 +207,20 @@ _See charts and descriptions below_
 | Fishing gear            | 1sp      | 1sp       |   1
 | Grappling hook          | 5sp      | 10sp      |   1
 | Hammer                  | 3sp      | 2sp       |   1
-| *Ink and Quill*         | 10sp     | 25sp      |   1
+| _Ink and Quill_         | 10sp     | 25sp      |   1
 | Instrument, musical     | > 1sp    | > 5sp     |   1 (most)
 | _Ladder, 10'_           | 10sp     | 7sp       | Oversized
 | Lantern                 | 15sp     | 10sp      |   1
 | Lard                    | 1cp      | 1cp       |   1
-| *Mirror, silver*        | 30sp     | --        |   --
-| *Mirror, steel*         | 1sp      | 5sp       |   --
+| _Mirror, silver_        | 30sp     | --        |   --
+| _Mirror, steel_         | 1sp      | 5sp       |   --
 | Oil, Flask              | 5sp      | 10sp      |   #3
-| *Paper*                 | 2cp      | 2cp       |   --
+| _Paper_                 | 2cp      | 2cp       |   --
 | Pick, miner's           | 6sp      | 12sp      |   1
-| *Pipe*                  | 1sp      | 5cp       |   -- ( Traditional Heteri style is 1)
+| _Pipe_                  | 1sp      | 5cp       |   -- ( Traditional Heteri style is 1)
 | Pole, 10'               | 1sp      | 5cp       | Oversized
 | Rope, 50'               | 3sp      | 3sp       |   1
-| Saddle and Tack         |	25sp     | 10sp      | Oversized
+| Saddle and Tack         | 25sp     | 10sp      | Oversized
 | Scroll case, leather    | 1sp      | 3sp       |   #2
 | Scroll case, bone       | 5sp      | 15sp      |   #2
 | Shovel                  | 3sp      | 3sp       |   1
@@ -237,9 +230,8 @@ _See charts and descriptions below_
 | Thieve's tools          | 50sp     | --        |   1
 | Tinderbox               | 1sp      | 5sp       |   1 (Flint and Steel alone is --)
 | Torches (3)             | 3cp      | 3cp       |   #3
-| *Vial, empty*           | 5cp      | 7cp       |   #5
+| _Vial, empty_           | 5cp      | 7cp       |   #5
 | Waterskin               | 1sp      | 1sp       |   1 (full)
-
 
 ### Religious Items
 
@@ -248,9 +240,9 @@ _See charts and descriptions below_
 | Talisman, Mindat, Basic | 100sp    | 250sp     |  --
 | Prayer Beads            |          |           |  --
 | Incense, 12 pieces      |          |           |   1  
-| *Holy symbol, silver*   | 25sp     | 50sp      |   1
-| *Holy symbol, steel*    | 10sp     | 10sp      |   1
-| *Holy symbol, wood*     | 1sp      | 1cp       |   1
+| _Holy symbol, silver_   | 25sp     | 50sp      |   1
+| _Holy symbol, steel_    | 10sp     | 10sp      |   1
+| _Holy symbol, wood_     | 1sp      | 1cp       |   1
 | Holy water, vial        | 25sp     | 25sp      |  #3
 | Prayercloth, Clan       |          |           |  --
 | Prayercloth, Personal   |          |           |  --
@@ -265,7 +257,6 @@ _See charts and descriptions below_
   Less: Allows +4 to saving throws versus the effort
   Supreme:  Allows a reroll of a failed saving throw versus the effort
 
-
 ### Herbs
 
 | **Item**                |  **City**  | **Rural** | Enc (items) |
@@ -277,42 +268,43 @@ _See charts and descriptions below_
 | Smoking Tobacco         |    3cp     |   1cp     |
 | Wolvesbane              |   10sp     |   1sp     |
 | Cinnamon (etc,1lb)      |   10sp     |  20sp     |   1
-| Saffron (1lb)	     	    |   50sp     |  --       |   1
+| Saffron (1lb)           |   50sp     |  --       |   1
 | Vial of mithridate      | 1000sp     |  --       |  #3
 | Healing poultice        | varies     | varies    |   1
 
-
 ### Clothing
-Most clothing does not count as an encumbering item if worn. 
 
-| **Item**	     		          | Rural | City | Enc (items) | Availability | Special |
+Most clothing does not count as an encumbering item if worn.
+
+| **Item**                  | Rural | City | Enc (items) | Availability | Special |
 | ----------------------------|-------|------|-------------|--------------|---------|
-| Belt 		                    |    	1 |    1 |             |              |         |
-| Boots soft, low		          |   	  |	   6 |             |              |         | 
-| Boots soft, high		        |  	    |	   3 |             |              |         |
-| Cloak, hooded		            |		    |    1 |             |              |         |
-| Cloak, heavy, winter	      |   	  |   15 |             |              |         |
-| Cloth, cotton, bolt			    |	      |   25 |             |              |         |
-| Cloth, silk, bolt			      |	      |  100 |             |              |         |
-| Cloth, wool, bolt			      |	      |   10 |             |              |         |
-| Gloves				              |       |    4 |             |              |         |
+| Belt                       |     1 |    1 |             |              |         |
+| Boots soft, low            |      |    6 |             |              |         |
+| Boots soft, high          |       |    3 |             |              |         |
+| Cloak, hooded              |      |    1 |             |              |         |
+| Cloak, heavy, winter       |      |   15 |             |              |         |
+| Cloth, cotton, bolt       |       |   25 |             |              |         |
+| Cloth, silk, bolt         |       |  100 |             |              |         |
+| Cloth, wool, bolt         |       |   10 |             |              |         |
+| Gloves                  |       |    4 |             |              |         |
 | Hat, Mindat Academic        |       |      |             |              |         |
 | Hat, Cavalier               |       |      |             |              |         |
 | Hat, Chaperon               |       |      |             |              |         |
 | Hat, Fur                    |       |      |             |              |         |
 | Hat, Phrygian               |       |      |             |              |         |
 | Hat, Wide brimmed           |       |      |             |              |         |
-| Robe (vestment or academic) |		    |	   6 |             |              |         |
-| Shoes,leather	              |   	  |    1 |             |              |         |
-| Turban, Chlendi             | 	    |	   1 |             |              |         |
-| Wig, cheap                  |		    |	   5 |             |              |         |
-| Wig, fine quality           |		    |	  50 |             |              |         |
-| *Clothing, extravagant*     | --    | 20+sp |            |              |         |
-| *Clothing, normal*          | 2sp   | 5sp   |            |              |         |
-| *Clothing, poor*            | 5cp   | 1sp   |            |              |         |
-| *Clothing, winter travel*   | 5sp   | 10sp  |            |              |         |
+| Robe (vestment or academic) |      |    6 |             |              |         |
+| Shoes,leather               |      |    1 |             |              |         |
+| Turban, Chlendi             |      |    1 |             |              |         |
+| Wig, cheap                  |      |    5 |             |              |         |
+| Wig, fine quality           |      |   50 |             |              |         |
+| _Clothing, extravagant_     | --    | 20+sp |            |              |         |
+| _Clothing, normal_          | 2sp   | 5sp   |            |              |         |
+| _Clothing, poor_            | 5cp   | 1sp   |            |              |         |
+| _Clothing, winter travel_   | 5sp   | 10sp  |            |              |         |
 
 ### Containers
+
 Most containers (exclusing oversized ones) one count encumbrance based on their contents.  
 
 | **Item**    | **Rural** | **City** | Capacity (Coins) | Capacity (Items) | Reference | Enc (items) |
@@ -320,14 +312,14 @@ Most containers (exclusing oversized ones) one count encumbrance based on their 
 | Backpack    |   3       |       2  |           400    |          2       |      BX   |
 | Barrel      |   5       |       3  |                  |                  |           | Oversized
 | Chest       |  20       |      10  |                  |                  |           | Oversized
-| Pouch, large|   1       |       1  |            50    |        0.5       |     AD&D  | -- 
+| Pouch, large|   1       |       1  |            50    |        0.5       |     AD&D  | --
 | Pouch, small|   1       |       1  |            25    |        0.2       |     AD&D  | --
 | Quiver      |  10       |       5  |                  |  24 arrows       |           | --
-| Sack, large |   2       |       1  |           600    |          3       |       BX  |  1 
-| Sack, small |   2       |       1  |           200    |          1       |       BX  | -- 
+| Sack, large |   2       |       1  |           600    |          3       |       BX  |  1
+| Sack, small |   2       |       1  |           200    |          1       |       BX  | --
 | Saddlebags  |   5       |       5  |           300    |          2       |       BX  |  1
 
-  * See also, AD&D Companion v1.3
+* See also, AD&D Companion v1.3
 
 ### Food and Provisions
 
@@ -343,25 +335,24 @@ Most containers (exclusing oversized ones) one count encumbrance based on their 
 | Rations, standard (5 days)    | 3sp       |   5sp    |   1 (per week)
 | Feed, Animal (5 days)         | 3sp       |   5sp    |   1 (per week)
 
-
 ### Animals and Livestock
 
 | **Item**       | **Rural** | **City** |
 |----------------|-----------|----------|
-| Chicken     	 |	 2cp	   |   5cp    |
-| Cow            |    50	   | 100      |
-| Dog (hunting)	 |     3	   |   3      |
-| Dog (war)		   |	  75	   |  50      |
+| Chicken       |  2cp    |   5cp    |
+| Cow            |    50    | 100      |
+| Dog (hunting)  |     3    |   3      |
+| Dog (war)     |   75    |  50      |
 | Donkey         |    15     |  15      |
-| Goat        	 |     1	   |   3      |
-| Hawk (trained) |	 100     |  50      |
+| Goat          |     1    |   3      |
+| Hawk (trained) |  100     |  50      |
 | Horses         |           |          |
-|-- Draft        |	  75	   | 100      |
-|-- Heavy War    |	  --     | 700  	  |
-|-- Light War	   |    --     | 300      |
+|-- Draft        |   75    | 100      |
+|-- Heavy War    |   --     | 700     |
+|-- Light War    |    --     | 300      |
 |-- Riding       |   100     | 100      |
 | Mule           |    25     |  50      |
-| Pig       	   |	   5	   |  15      |
+| Pig           |    5    |  15      |
 | Pony           |    50     |  75      |
 
 ### Transport
@@ -375,8 +366,6 @@ Most containers (exclusing oversized ones) one count encumbrance based on their 
 | Boat, raft  | 5         |   5      |
 | Boat, canoe | 25        |  30      |
 
-
-
 ### Lodging
 
 | **Item**                    | **Rural** | **City** |
@@ -386,17 +375,16 @@ Most containers (exclusing oversized ones) one count encumbrance based on their 
 | Inn, average                | 2sp       |    5sp   |
 | Inn, fine                   | 10sp      |    50sp  |
 | Rent, 1 month (per 10' sq.) | 15sp      |    30sp  |
-| Stabling (riding horse)     |	2sp		    |     5sp  |
-| Stabling (warhorse) 	      |	5sp 	    |    10sp  |
+| Stabling (riding horse)     | 2sp      |     5sp  |
+| Stabling (warhorse)        | 5sp      |    10sp  |
 
-| **Structures**			        | **Rural** | **City** |
+| **Structures**           | **Rural** | **City** |
 | ----------------------------|-----------|----------|
 | Cottage (wood), purchase    |     300gp |    300gp |
-| Hut (wattle), purchase	    |      25gp |     25gp |
-| Hut (wooden), purchase      |	     50gp |     50gp |
-| Townhouse (stone), purchase |	  1,200gp |  1,200gp |
+| Hut (wattle), purchase     |      25gp |     25gp |
+| Hut (wooden), purchase      |      50gp |     50gp |
+| Townhouse (stone), purchase |   1,200gp |  1,200gp |
 | Heteri Clan Marker, common  |      75sp |    100sp |  
-
 
 ## Services
 
@@ -424,12 +412,13 @@ Most containers (exclusing oversized ones) one count encumbrance based on their 
 
 | **Item**            | **Rural** | **City** | Availability   |Special       |              |
 |---------------------|-----------|----------|----------------|--------------|--------------|
-| Nogs                |           |          |                |              | 
-| -- Cartographer Nog |           |          |                |              | 
+| Nogs                |           |          |                |              |
+| -- Cartographer Nog |           |          |                |              |
 | -- Shield Nog       |           |          |                |              |
 | -- Nogs, Service    |           |          |                |              |
 
 #### Hirelings
+
 * Availability
 * Hiring
 * Pay per Month
@@ -438,46 +427,46 @@ Most containers (exclusing oversized ones) one count encumbrance based on their 
 * Specialist
 
 Henchmen
+
 * Availability
 * Hiring
 * Pay and Treasure Shares
 * Types and standard equipment
 * Advancement
 
-
 ## Encumbrance
 
+### Character Movement and Encumbrance
 
-#### Character Movement and Encumbrance
-
-| Encumbrance	     | Exploration Movement | Combat Movement | Running Movement |
+| Encumbrance      | Exploration Movement | Combat Movement | Running Movement |
 |------------------|----------------------|-----------------|-----------------|
 | | | | |
 
 #### Animal/Vehicle Movement and Encumbrance
 
-| Animal/Vehicle |	Exploration Movement | Normal Load | Maximum Load |
+| Animal/Vehicle | Exploration Movement | Normal Load | Maximum Load |
 |----------------|-----------------------|-------------|--------------|
-| | | | 
+| | | | |
 
 #### Burden
 
 | Animal Cost (gp) | Miles/Day| Movement Rate | Max Encumbrance (Coins) | Notes |
 |------------------|----------|---------------|-------------------------|-------|
-| | | | |
+| | | | | |
 
 #### Container Capacity
 
 ### Equipment and Service Descriptions
 
 #### Armor Descriptions
+
 * Breast & Back - pair of steel plates worn over the chest, often with a soft leather garment underneath. The back plate is typically excluded by cavalry.
 * Brigandine - long coat of leather bands, each studded and embedded with steel plates.
 * Buff Coat - heavy coat of quilted cloth, often in multiple layers.
 * Codpiece, mundane
 * Cloak - heavy cloth garment of wool, cotton or other material, used hung over offhand arm as shield and for weapon entanglment.
 * Furs - soft leather or hide coat, tunic, or jacket padded with heavy furs for warmth, treat as padded armour.
-* Helmets -  _Description pending - 
+* Helmets -  _Description pending -
 * Hides, Regional
   * Hide, Zhouna - stripes of the hide of zhounas, the reptilian riding beasts of the Mindat.
 * Leather, Cuir Bouilli
@@ -486,7 +475,6 @@ Henchmen
 * Pitch Jacket - a cheap or expeditious form of cuir bouilli, this a coat or jackets of cotton or wool soaked repeated in pitch.
 * Shields - a variety of shapes and sizes, made of wood (often covered with leather or hide) or metal. Large, Small, Small wooden
 * Studded Leather - soft leather, usually with a cuir bouilli breastplate, closely studded with steel rivets.
-
 
 ### Build/Repair/Import/Seasonal
 
